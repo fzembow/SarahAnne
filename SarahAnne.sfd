@@ -1,0 +1,2469 @@
+SplineFontDB: 3.0
+FontName: SarahAnn-Regular
+FullName: Sarah Ann Regular
+FamilyName: Sarah Ann
+Weight: Regular
+Copyright: Created by Fil Zembowicz (fil@filosophy.org) with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2013-5-17: Created." 
+Version: 0.1
+ItalicAngle: 0
+UnderlinePosition: -102
+UnderlineWidth: 51
+Ascent: 819
+Descent: 205
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 718 483122345 13344524]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1368839848
+ModificationTime: 1369711465
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2013, Fil Zembowicz (fil@filosophy.org),+AAoA-with Reserved Font Name Sarah Ann.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 0
+FitToEm: 1
+WinInfo: 72 12 5
+BeginPrivate: 0
+EndPrivate
+Grid
+-1024 -399.360351562 m 0
+ 2048 -399.360351562 l 0
+-1024 567.295898438 m 0
+ 2048 567.295898438 l 0
+  Named: "x-height" 
+-194.458007812 1331.20019531 m 0
+ -194.458007812 -716.799804688 l 0
+EndSplineSet
+BeginChars: 256 67
+
+StartChar: o
+Encoding: 111 111 0
+Width: 514
+VWidth: 0
+Flags: WO
+VStem: 345 114<158.625 480.369>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+210 299 m 0
+ 194 193 225 104 271 102 c 0
+ 317 100 340 190 345 297 c 0
+ 350 404 358 494 312 496 c 0
+ 266 498 227 407 210 299 c 0
+72 227 m 0
+ 72 350 107 570 287 551 c 1
+ 300 564 272 609 271 631 c 0
+ 270 659 296 663 312 662 c 0
+ 406 655 459 459 459 291 c 0
+ 459 123 360 -24 260 -5 c 0
+ 157 15 72 59 72 227 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: n
+Encoding: 110 110 1
+Width: 618
+VWidth: 0
+Flags: WO
+HStem: 555.9 20G<69.0124 134.016>
+VStem: 76.5156 147<37.2341 278.138> 437.071 119.929<5.68553 367.002>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+181.515625 390.900390625 m 5
+ 255.515625 472.900390625 254 551 367 553 c 4
+ 513 555 520.071289062 453.200195312 545.071289062 347.200195312 c 5
+ 562.071289062 241.200195312 555 153 557 79 c 12
+ 558.189453125 34.9853515625 535 -16 496 -16 c 4
+ 410 -16 437.071289062 69.3623046875 437.071289062 131.200195312 c 31
+ 437.071289062 252.688476562 437.515655518 418.899993896 388.515625 438.900390625 c 4
+ 331.255267691 462.272414089 244.515625 292.900390625 223.515625 218.900390625 c 4
+ 192.515625 109.900390625 230 19 168 7 c 4
+ 76 -10 79.953125 48.939453125 76.515625 196.900390625 c 4
+ 75.03125 260.799804688 75 315 75 402 c 12
+ 75 470.99609375 30.5091317673 575.900390625 107.515625 575.900390625 c 4
+ 160.515625 575.900390625 167.515625 472.900390625 181.515625 390.900390625 c 5
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 2
+Width: 481
+VWidth: 0
+Flags: WO
+VStem: 89 98.7393<395.003 537.29>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+109.685546875 25.990234375 m 4
+ 91.5810546875 79.99609375 89 162.66796875 89 270 c 8
+ 89 386.92578125 32.2763671875 533.391601562 127.744140625 567.295898438 c 1
+ 210.917480469 596.577514648 179.14453125 437.481445312 187.739257812 395.002929688 c 1
+ 206.743804932 421.179290771 243.583007812 466.75390625 290 486 c 0
+ 331 503 395 508 424 455 c 0
+ 444.3671875 417.77734375 311.209960938 393.493164062 253 329 c 0
+ 202.995117188 273.59765625 203.9375 199.7109375 210 138 c 0
+ 214.681640625 92.1181640625 236.385742188 32.0478515625 228.926757812 10.5048828125 c 0
+ 223.284179688 -5.7900390625 115.799804688 7.7470703125 109.685546875 25.990234375 c 4
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 3
+Width: 495
+VWidth: 0
+Flags: WO
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+169.850585938 258.998046875 m 0
+ 159.850585938 175.998046875 168.701171875 103.99609375 195.701171875 100.99609375 c 0
+ 222.701171875 97.99609375 301.850585938 164.998046875 311.850585938 247.998046875 c 0
+ 321.850585938 330.998046875 321.850585938 411.998046875 294.850585938 414.998046875 c 0
+ 267.850585938 417.998046875 179.850585938 341.998046875 169.850585938 258.998046875 c 0
+72 300 m 0
+ 102 457 250.850585938 577.998046875 330.850585938 562.998046875 c 0
+ 410.850585938 547.998046875 404.702148438 258.997070312 409.850585938 188.998046875 c 0
+ 414.67578125 123.411132812 479.850585938 -6.001953125 450.850585938 -9.001953125 c 0
+ 359.850585938 -19.001953125 353 47 333 88 c 1
+ 294 40 199 -4 157 -1 c 0
+ 76 5 42 143 72 300 c 0
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 4
+Width: 716
+VWidth: 0
+Flags: WO
+LayerCount: 2
+EndChar
+
+StartChar: d
+Encoding: 100 100 5
+Width: 669
+VWidth: 0
+Flags: WO
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+90 362 m 0
+ 123 441 206.014648438 548.8125 392.014648438 556.8125 c 1
+ 376.014648438 687.8125 370.014648438 818.8125 448.014648438 828.8125 c 0
+ 526.014648438 838.8125 509.028320312 411.625976562 542.014648438 234.8125 c 0
+ 569.905273438 85.306640625 623.014648438 70.8125 600.014648438 13.8125 c 0
+ 598.014648438 9.8125 535.014648438 3.8125 486.014648438 76.8125 c 0
+ 438.014648438 148.8125 440.014648438 192.8125 438.014648438 188.8125 c 1
+ 374.014648438 55.8125 268 -35 160 21 c 0
+ 72 67 29 214 90 362 c 0
+215 323 m 0
+ 173 239 184 147 225 127 c 0
+ 266 107 310.014648438 146.8125 351.014648438 231.8125 c 0
+ 376.014648438 282.8125 432 433 391 453 c 0
+ 350 473 257 407 215 323 c 0
+EndSplineSet
+EndChar
+
+StartChar: b
+Encoding: 98 98 6
+Width: 563
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+109 276 m 1
+ 121 452 -1 792 74 801 c 1
+ 236 819 186 508 215 469 c 1
+ 252 434 243 602 403 584 c 0
+ 480 575 521 428 493 265 c 0
+ 465 102 381 -9 303 -6 c 0
+ 155 0 81 113 109 276 c 1
+256 276 m 0
+ 233 171 264 100 288 95 c 0
+ 312 90 344 103 367 208 c 0
+ 390 313 405 448 381 453 c 0
+ 357 458 279 381 256 276 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: i
+Encoding: 105 105 7
+Width: 318
+VWidth: 0
+Flags: WO
+HStem: 724 80.2988<94.1209 198.437>
+VStem: 75.8662 126.134<185.763 464.959> 75.8662 112.863<203.221 464.145> 88.0029 114.863<732.167 800.246>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+88.0029296875 768 m 0x90
+ 88.0029296875 800 105.866210938 804.298828125 146.866210938 804.298828125 c 3
+ 184.202520343 804.298828125 200.866210938 798.298828125 202.866210938 758.298828125 c 1
+ 202.866210938 726.298828125 197.002929688 724 156.002929688 724 c 0
+ 115.002929688 724 88.0029296875 736 88.0029296875 768 c 0x90
+75.8662109375 481.298828125 m 1xa0
+ 75.8662109375 481.298828125 186.729492188 478.59765625 188.729492188 455.59765625 c 0xa0
+ 198.729492188 347.59765625 202 343.569226327 202 237 c 3xc0
+ 202 144.241210938 238 20 215 12 c 0
+ 176 -1 116.642347658 16.9843066726 103 63 c 24
+ 56.5322265625 219.736328125 75.8662109375 481.298828125 75.8662109375 481.298828125 c 1xa0
+EndSplineSet
+EndChar
+
+StartChar: k
+Encoding: 107 107 8
+Width: 507
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+90 833 m 4
+ 212 819 78 527 194 488 c 4
+ 222 479 344 737 389 636 c 4
+ 479 434 181 470 222 241 c 4
+ 239 144 452 259 484 144 c 4
+ 504 69 317 103 252 90 c 4
+ 226 85 255 -63 167 -45 c 4
+ 59 -22 95 191 86 372 c 4
+ 79 513 27 590 25 737 c 4
+ 24 796 37 839 90 833 c 4
+EndSplineSet
+EndChar
+
+StartChar: e
+Encoding: 101 101 9
+Width: 458
+VWidth: 0
+Flags: WO
+VStem: 63.3887 316.389
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+119.77734375 468.75 m 4
+ 157.77734375 553.75 230.77734375 602.75 283.77734375 579.75 c 4
+ 336.77734375 556.75 357.77734375 457.75 319.77734375 372.75 c 4
+ 298.77734375 324.75 220.77734375 283.75 186.77734375 265.75 c 4
+ 183.77734375 263.75 141.77734375 121.75 192.77734375 96.75 c 4
+ 240.77734375 73.75 356.77734375 209.75 379.77734375 143.75 c 4
+ 399.77734375 84.75 232.77734375 -15.25 161.77734375 0.75 c 5
+ 98.77734375 4.75 64 73.453125 63.388671875 171.1015625 c 5
+ 62.388671875 263.1015625 81.77734375 383.75 119.77734375 468.75 c 4
+205.190429688 436.588867188 m 4
+ 193.333007812 399.975585938 189.379882812 379.776367188 206.5078125 374.725585938 c 4
+ 223.634765625 369.67578125 255.254882812 381.038085938 267.112304688 417.651367188 c 4
+ 278.969726562 454.263671875 275.017578125 488.350585938 257.889648438 493.401367188 c 4
+ 240.762695312 498.451171875 217.047851562 473.201171875 205.190429688 436.588867188 c 4
+EndSplineSet
+EndChar
+
+StartChar: h
+Encoding: 104 104 10
+Width: 618
+VWidth: 0
+Flags: WO
+HStem: 522.7 20G<322.88 439.38>
+VStem: 84 94<392.488 650.031> 90 131.38<98.0286 303.836> 432 125<20.5984 367.318>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+185.379882812 390.700195312 m 1xd0
+ 245.380126953 492.700012207 266.379882812 540.700195312 379.379882812 542.700195312 c 1
+ 499.380126953 540.700012207 535.759765625 405.400390625 547.379882812 290.700195312 c 0
+ 555.294921875 212.5703125 555 153 557 79 c 8
+ 558.095703125 38.4599609375 528.379882812 0 489.379882812 0 c 0
+ 403.379882812 0 432 110.086914063 432 186 c 27
+ 432 277.94921875 441.379882812 387.700195312 383.379882812 416.700195312 c 0
+ 327.379882812 444.700195312 242.379882812 324.700195312 221.379882812 250.700195312 c 0
+ 190.379882812 141.700195312 214 12 152 0 c 0
+ 60 -17 90 75 90 223 c 0xb0
+ 90 228 84 304 84 391 c 8
+ 84 557.229492188 21 817 98 817 c 0
+ 155 817 170 693 178 578 c 0
+ 185 476 179.379882812 428.700195312 185.379882812 390.700195312 c 1xd0
+EndSplineSet
+EndChar
+
+StartChar: s
+Encoding: 115 115 11
+Width: 394
+VWidth: 0
+Flags: WO
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+90.0380859375 306.981445312 m 0
+ 53.037109375 436.982421875 100.532226562 560.490234375 205.532226562 573.490234375 c 0
+ 230.532226562 576.490234375 342.532226562 513.490234375 331.532226562 421.490234375 c 0
+ 325.532226562 368.490234375 256.532226562 469.490234375 227.532226562 441.490234375 c 0
+ 197.532226562 411.490234375 207.038085938 329.981445312 211.038085938 307.981445312 c 0
+ 232.038085938 177.981445312 323.038085938 169.981445312 264.038085938 75.9814453125 c 0
+ 241.038085938 38.9814453125 120.532226562 -30.509765625 72.5322265625 15.490234375 c 0
+ 10.5322265625 75.490234375 146.038085938 69.9814453125 162.038085938 147.981445312 c 0
+ 172.038085938 193.981445312 110.495117188 235.104492188 90.0380859375 306.981445312 c 0
+EndSplineSet
+EndChar
+
+StartChar: m
+Encoding: 109 109 12
+Width: 710
+VWidth: 0
+Flags: WO
+VStem: 39 116<13.765 410.654> 312 100<10.6056 360.527>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+259.844726562 567.295898438 m 3
+ 305.844726562 567.295898438 305.844726562 487.5 351.844726562 491.5 c 0
+ 399.844726562 495.5 447 575 516 575 c 3
+ 641 575 606 363 624 236 c 0
+ 637 149 685 21 630 29 c 0
+ 534 43 547 156 538 252 c 0
+ 529 347 505 501 477 473 c 0
+ 391 387 406 293 412 176 c 0
+ 417 79 413 0 367 0 c 0
+ 267 0 314 156 312 253 c 0
+ 310 347 246 479 224 465 c 0
+ 146 413 153 312 155 214 c 0
+ 157 118 175 -8 85 -8 c 3
+ 14 -8 37.245430933 160.120112177 39 270 c 24
+ 40.4287109375 359.471679688 39.6393724861 421.167197176 93 493 c 24
+ 135.475585938 550.178710938 206.844726562 567.295898438 259.844726562 567.295898438 c 3
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 13
+Width: 527
+VWidth: 0
+Flags: WO
+VStem: 325.066 115<-95.022 104.614>
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+181.06640625 267 m 0
+ 164.06640625 202 244.06640625 185 275.06640625 183 c 0
+ 306.06640625 181 313.06640625 181 318.06640625 248 c 0
+ 323.06640625 315 315.06640625 427 284.06640625 429 c 0
+ 253.06640625 431 198.06640625 332 181.06640625 267 c 0
+90.06640625 343 m 0
+ 124.06640625 474 231.06640625 594 318.06640625 578 c 0
+ 361.06640625 570 416.06640625 431 430.06640625 295 c 0
+ 436.06640625 234 443.06640625 86 440.06640625 0 c 0
+ 436.06640625 -104 424.06640625 -211 336.06640625 -211 c 0
+ 254.06640625 -211 48.06640625 -94 104.06640625 -69 c 0
+ 192.06640625 -29 253.06640625 -105 317.06640625 -98 c 1
+ 357.06640625 -64 323.06640625 0 325.06640625 106 c 1
+ 288.06640625 117 211.06640625 85 190.06640625 87 c 0
+ 100.06640625 97 56.06640625 212 90.06640625 343 c 0
+EndSplineSet
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 14
+Width: 337
+VWidth: 0
+Flags: W
+HStem: 5 85<133.682 223.193>
+VStem: 84 100<361.086 776.55> 123 111<17.7318 79.0781>
+LayerCount: 2
+Fore
+SplineSet
+84 524 m 0xc0
+ 72 681 102 815 137 818 c 0
+ 235 826 172 665 184 508 c 0
+ 196 351 225 246 164 233 c 0
+ 130 226 96 367 84 524 c 0xc0
+123 21 m 4xa0
+ 116 47 133 81 166 90 c 4
+ 199 99 227 98 234 72 c 4
+ 241 46 234 26 190 5 c 4
+ 159 -10 130 -5 123 21 c 4xa0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: v
+Encoding: 118 118 15
+Width: 465
+VWidth: 0
+Flags: WO
+HStem: 561 20G<337.5 410.5>
+LayerCount: 2
+Fore
+SplineSet
+203 146 m 4
+ 237 106 229 293 251 401 c 4
+ 269 490 289 581 386 581 c 4
+ 435 581 472 483 393 500 c 5
+ 348 449 338 356 334 301 c 4
+ 325 177 343 7 234 0 c 4
+ 167 -4 99 90 77 181 c 28
+ 42 325 11 584 97 561 c 4
+ 168 542 107 259 203 146 c 4
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: t
+Encoding: 116 116 16
+Width: 446
+VWidth: 0
+Flags: WO
+VStem: 131.107 94.7588<196.041 533.828>
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+-19.1337890625 455 m 0
+ -18.1337890625 503 33.3603515625 484.354492188 151.360351562 499.354492188 c 0
+ 233.360351562 509.354492188 415.360351562 546.354492188 415.360351562 517.354492188 c 0
+ 415.361328125 449.354492188 283.866210938 391 164.866210938 391 c 0
+ 45.8662109375 391 -20.1337890625 426 -19.1337890625 455 c 0
+125.866210938 365 m 0
+ 114.866210938 595 48.8662109375 824 80.8662109375 829 c 0
+ 186.866210938 846 214.866210938 691 225.866210938 461 c 0
+ 236.866210938 231 257.107421875 1 191.107421875 0 c 0
+ 157.107421875 -1 138.107421875 -0.6455078125 131.107421875 79.3544921875 c 0
+ 124.107421875 163.354492188 127.866210938 313 125.866210938 365 c 0
+EndSplineSet
+EndChar
+
+StartChar: c
+Encoding: 99 99 17
+Width: 445
+VWidth: 0
+Flags: WO
+VStem: 75.1514 114<157.689 386.909>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+75.1513671875 282.821289062 m 1
+ 74.1513671875 489.821289062 234 578 269 575 c 0
+ 336 570 373 460 349 424 c 0
+ 334 401 326.151367188 477.821289062 277.151367188 458.821289062 c 0
+ 200.151367188 428.821289062 189.151367188 325.821289062 189.151367188 237.821289062 c 0
+ 189.151367188 125.821289062 292.151367188 75.8212890625 329.151367188 53.8212890625 c 0
+ 368.151367188 30.8212890625 341.151367188 4.8212890625 304.151367188 3.8212890625 c 0
+ 163.151367188 0.8212890625 73.1513671875 105.821289062 75.1513671875 282.821289062 c 1
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 18
+Width: 326
+VWidth: 0
+Flags: WO
+HStem: 803.385 20G<137.293 213.293>
+VStem: 92.293 129<128.209 676.345>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+92.29296875 424.384765625 m 0
+ 98.29296875 668.384765625 100.29296875 823.384765625 174.29296875 823.384765625 c 0
+ 252.29296875 823.384765625 218.29296875 621.384765625 221.29296875 377.384765625 c 0
+ 225.29296875 47.384765625 280.29296875 7 175.29296875 -0 c 0
+ 116.29296875 -4 84.29296875 94.384765625 92.29296875 424.384765625 c 0
+EndSplineSet
+EndChar
+
+StartChar: y
+Encoding: 121 121 19
+Width: 577
+VWidth: 0
+Flags: WO
+HStem: -239 139<273.993 364.936>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+141 498 m 0
+ 250 458 124.135742188 94.494140625 253 161 c 0
+ 437.07421875 256 205.07421875 509 369.07421875 560 c 0
+ 448.07421875 585 422.931640625 353.235351562 443.07421875 210 c 0
+ 461.07421875 82 466.791992188 50.994140625 469.07421875 -54 c 0
+ 471.07421875 -146 442.07421875 -220 325.07421875 -239 c 0
+ 248.07421875 -252 78.0380859375 -115.086914062 125.07421875 -100 c 0
+ 231.07421875 -66 283.07421875 -199 345.07421875 -117 c 0
+ 392.078125 -54.833984375 367.07421875 15 353.07421875 107 c 1
+ 289.07421875 63 274.07421875 33 205.07421875 50 c 0
+ 103.07421875 76 81.8126349935 176.431659932 67 280 c 24
+ 54.2880859375 368.879882812 59 528 141 498 c 0
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 20
+Width: 663
+VWidth: 0
+Flags: WO
+VStem: 439 112<269.575 543.086>
+LayerCount: 2
+Fore
+SplineSet
+276 162 m 0
+ 344 162 428 244 439 330 c 0
+ 452 440 388 610 483 580 c 0
+ 574 551 544 412 551 290 c 0
+ 560 145 628 -8 555 5 c 0
+ 423 28 497 200 456 176 c 1
+ 416 120 288 7 229 31 c 0
+ 118 76 138 177 125 282 c 24
+ 112 390 65 627 165 557 c 0
+ 276 480 160 162 276 162 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: p
+Encoding: 112 112 21
+Width: 550
+VWidth: 0
+Flags: WO
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+100 504 m 0
+ 147 547 137 475 190 489 c 0
+ 214 496 207 588 333 594 c 0
+ 391 597 512.138671875 463.013671875 449.138671875 250.013671875 c 0
+ 392.138671875 57.013671875 273 17 261 16 c 0
+ 173 11 296.138671875 -230.986328125 186.138671875 -210.986328125 c 0
+ 73.6279296875 -190.530273438 126 29 115 219 c 0
+ 107 355 49 456 100 504 c 0
+232 322 m 0
+ 220 197 218 135 241 142 c 0
+ 253 146 310.138671875 141.013671875 340.138671875 259.013671875 c 0
+ 370.138671875 377.013671875 336 478 313 484 c 0
+ 290 490 244 444 232 322 c 0
+EndSplineSet
+EndChar
+
+StartChar: w
+Encoding: 119 119 22
+Width: 751
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+152 567 m 0
+ 271 469 164 164 291 84 c 0
+ 305 75 338 177 328 287 c 0
+ 318 392 295 493 379 498 c 0
+ 490 504 408 135 547 111 c 0
+ 582 105 577 211 555 356 c 0
+ 537 475 460 694 553 672 c 0
+ 641 652 682 360 684 223 c 0
+ 686 88 686 18 594 0 c 0
+ 457 -27 440 110 391 102 c 0
+ 366 98 420 -14 268 -6 c 0
+ 152 0 121 126 98 240 c 24
+ 72 367 51 651 152 567 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: H
+Encoding: 72 72 23
+Width: 649
+VWidth: 0
+Flags: WO
+HStem: 414 79<283.829 443.129>
+VStem: 454 111<110.875 576.444>
+LayerCount: 2
+Fore
+SplineSet
+166 353 m 4
+ 160 375 225 467 330 493 c 4
+ 435 519 523 476 529 454 c 4
+ 535 432 455 440 350 414 c 4
+ 245 388 172 331 166 353 c 4
+137 410 m 4
+ 131 472 141 597 121 655 c 4
+ 101 713 85 875 170 826 c 4
+ 199 809 211 670 244 452 c 4
+ 278 227 331 -78 187 11 c 4
+ 158 29 159 191 137 410 c 4
+454 388 m 5
+ 442 504 430 659 419 669 c 4
+ 376 708 387 762 439 781 c 5
+ 513 808 555 585 565 343 c 4
+ 575 99 631 -128 525 -41 c 4
+ 432 35 485 145 454 388 c 5
+EndSplineSet
+Validated: 37
+EndChar
+
+StartChar: E
+Encoding: 69 69 24
+Width: 685
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+394 827 m 0
+ 496 832 513 692 478 674 c 0
+ 433 650 400 697 350 712 c 17
+ 268 670 182 594 225 535 c 9
+ 329 522 468 603 492 501 c 0
+ 511 418 266 297 255 119 c 0
+ 249 24 459 266 556 291 c 0
+ 709 331 347 -82 180 11 c 0
+ -50 139 307 258 307 434 c 0
+ 307 452 91 428 93 559 c 0
+ 95 670 239 819 394 827 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: f
+Encoding: 102 102 25
+Width: 600
+VWidth: 0
+Flags: WO
+VStem: 204 110<171.291 636.941>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+204 432 m 0
+ 204 663 275.97515874 806.570209107 336.153320312 816.599609375 c 0
+ 432.153564453 832.599182129 546.153320312 751.599609375 488.153320312 698.599609375 c 0
+ 442.153320312 656.599609375 412.153320312 742.599609375 364.153320312 716.599609375 c 0
+ 300.153320312 682.599609375 314 446 314 386 c 0
+ 314 155 395 4 289 5 c 0
+ 253 5 204 201 204 432 c 0
+88 346 m 0
+ 61 425 166 442 277 482 c 0
+ 394 524 441.306640625 502.895507812 464.153320312 462.599609375 c 0
+ 482.90234375 429.53125 395.153320312 442.599609375 286.153320312 398.599609375 c 0
+ 177.153320312 354.599609375 103 302 88 346 c 0
+EndSplineSet
+EndChar
+
+StartChar: j
+Encoding: 106 106 26
+Width: 389
+VWidth: 0
+Flags: W
+HStem: 526 20G<177.665 276.571> 722 102<168.528 293.345>
+VStem: 160 144<733.806 814.277> 178 138<419.324 525.807>
+LayerCount: 2
+Fore
+SplineSet
+160 774 m 4xe0
+ 164 810 185 831 238 824 c 5
+ 290 809 309 822 304 782 c 5
+ 300 746 287 715 234 722 c 4
+ 181 729 156 738 160 774 c 4xe0
+178 546 m 1xd0
+ 178 546 314 541 316 518 c 0xd0
+ 326 410 304 320 304 193 c 27xe0
+ 304 34 392 -166 189 -199 c 0
+ 39 -224 26 -46 48 -27 c 0
+ 109 26 114 -111 167 -111 c 0
+ 301 -111 178 546 178 546 c 1xd0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: z
+Encoding: 122 122 27
+Width: 510
+VWidth: 0
+Flags: WO
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+232.84375 577.333984375 m 0
+ 417.84375 375.333984375 177.733398438 190.224609375 194.84375 113.333984375 c 0
+ 215.6875 19.6669921875 460.84375 141 478.84375 0 c 0
+ 511.84375 -250 179.848632812 -449.001953125 84.84375 -366.666015625 c 0
+ 18.6875 -309.333007812 104.84375 -374.666015625 250.84375 -264.666015625 c 0
+ 316.84375 -214.666015625 368 -136 365 -71 c 8
+ 358.747070312 64.482421875 11 -80 48 72 c 0
+ 78 196 205.120171985 295.326175348 195 455 c 24
+ 190.578125 524.76171875 0.341955648879 431.220654008 21 498 c 24
+ 47.072265625 582.282226562 164.84375 651.333984375 232.84375 577.333984375 c 0
+EndSplineSet
+EndChar
+
+StartChar: period
+Encoding: 46 46 28
+Width: 196
+VWidth: 0
+Flags: WO
+HStem: 2 89<67.9146 166.609>
+VStem: 55 121<14.2816 77.5723>
+LayerCount: 2
+Fore
+SplineSet
+55 37 m 4
+ 55 64 82 91 116 91 c 4
+ 150 91 176 81 176 54 c 4
+ 176 27 163 10 114 2 c 4
+ 81 -3 55 10 55 37 c 4
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: x
+Encoding: 120 120 29
+Width: 435
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+69 15 m 5
+ 166 5 176 163 219 275 c 4
+ 239 327 275 412 333 448 c 5
+ 403 408 397 514 350 528 c 4
+ 258 556 211 475 168 395 c 4
+ 141 345 116 273 95 221 c 4
+ 87 201 44 114 38 64 c 4
+ 33 23 62 16 69 15 c 5
+387 48 m 5
+ 411 57 327 129 318 139 c 4
+ 210 258 195 536 119 537 c 4
+ 19 538 120 263 200 116 c 28
+ 237 48 315 25 387 48 c 5
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 30
+Width: 482
+VWidth: 0
+Flags: W
+HStem: -205 105<353.5 464.676>
+VStem: 306 117<-99.7953 109.825>
+LayerCount: 2
+Fore
+SplineSet
+163 282 m 0
+ 146 217 226 199 257 197 c 0
+ 288 195 295 195 300 262 c 0
+ 305 329 297 441 266 443 c 0
+ 235 445 180 347 163 282 c 0
+73 343 m 0
+ 107 474 214 594 301 578 c 0
+ 344 570 399 431 413 295 c 0
+ 419 234 426 86 423 0 c 0
+ 419 -104 427 -100 450 -100 c 0
+ 504 -100 548 -43 566 -96 c 1
+ 576 -133 439 -205 398 -205 c 3
+ 309 -205 306 -10 306 98 c 7
+ 306 137 194 85 173 87 c 0
+ 83 97 39 212 73 343 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: plus
+Encoding: 43 43 31
+Width: 629
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+75 200 m 0
+ 83 153 190 217 328 240 c 0
+ 466 263 596 237 583 274 c 0
+ 576 293 474 321 327 301 c 0
+ 188 282 61 284 75 200 c 0
+361 -31 m 1
+ 386 -36 353 69 350 82 c 0
+ 320 240 452 486 387 526 c 0
+ 302 579 246 291 238 124 c 24
+ 234 47 288 -13 361 -31 c 1
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 32
+Width: 617
+VWidth: 0
+Flags: W
+HStem: 211.064 90.0479<82.8045 508.754>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+54.96875 226.963867188 m 0
+ 49.8125 311.966796875 175.91015625 296.723632812 316.133789062 301.112304688 c 0
+ 464.41796875 305.662109375 562.939453125 267.169921875 567.91796875 247.54296875 c 0
+ 576.985351562 209.387695312 441.952148438 219.536132812 302.3046875 211.064453125 c 0
+ 162.658203125 202.591796875 58.0205078125 179.385742188 54.96875 226.963867188 c 0
+EndSplineSet
+EndChar
+
+StartChar: comma
+Encoding: 44 44 33
+Width: 350
+VWidth: 0
+Flags: WO
+VStem: 55 71<-127.637 60.6874>
+LayerCount: 2
+Fore
+SplineSet
+55 -50 m 5
+ 48 11 47 93 106 61 c 5
+ 151 55 134 6 126 -57 c 4
+ 118 -120 131 -147 103 -143 c 4
+ 75 -139 60 -110 55 -50 c 5
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 34
+Width: 155
+VWidth: 0
+Flags: WO
+HStem: 598 236<61.3296 115.198>
+VStem: 61 86<636.888 815.75>
+LayerCount: 2
+Fore
+SplineSet
+61 721 m 0
+ 61 799 28 834 68 834 c 3
+ 115 834 147 817 147 739 c 3
+ 147 661 111 598 88 598 c 0
+ 48 598 61 643 61 721 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: question
+Encoding: 63 63 35
+Width: 380
+VWidth: 0
+Flags: W
+HStem: -2 89<140.751 236.73> 717 96<102.575 252.269>
+VStem: 128 119<10.8673 73.9294> 220 127<572.078 695.326>
+LayerCount: 2
+Fore
+SplineSet
+109 446 m 0xd0
+ 141 551 220 556 220 623 c 3
+ 220 644 210 717 159 717 c 3
+ 59 717 21 643 10 674 c 0
+ -3 710 68 813 199 813 c 0
+ 305 813 347 735 347 610 c 3
+ 347 483 251 489 213 403 c 0
+ 150 259 223 239 162 231 c 0
+ 127 226 64 296 109 446 c 0xd0
+128 30 m 0xe0
+ 127 57 151 86 185 87 c 0
+ 219 88 246 81 247 54 c 0
+ 248 27 237 8 189 -2 c 0
+ 156 -9 129 3 128 30 c 0xe0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: W
+Encoding: 87 87 36
+Width: 966
+VWidth: 0
+Flags: W
+VStem: 746 102<595.518 742.564>
+LayerCount: 2
+Back
+Image: 68 73 2 204 0 ffffffff -24.576 919.552 14.0274 14.0274 0
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8TX?\GuU0zzz!!!#&YHS!+s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!
+zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!lg*kD?XIM]C&e55
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8N'!zzzz!!!"!<E9)!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s6K":
+zzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8N'!zzzz!!!"5BkdVIs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s(Q1]zzzz!!$#!<WE+!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s)W7&
+zzzzz!:/t:s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!-<4&
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!.B9Ds8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8O;g,6.]Dzzzz!!*'!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s4>lSzzzzz!0ND+s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!*'!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s&E'!zzzzz!1TIIs8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!z!!(9gc2[hDs8W-!s8N6+"U,&5c-=N5s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s38g5zzzz!!*'!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s'K,?zzzzz!3`T0s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s(Q1]zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s5Dqqzzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8QG5?N:'+
+zzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s)W7&zzzzzzc-=N5s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s7Q'Xzzzzzz!!!$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s*]<Dzzzzzzf@SXSs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!zzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8RLqI/j6Izzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s+cAb
+zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!
+zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!*'!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s,iG+zzzzz!:/t:s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!zzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+zzzzzzI=6PDs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!
+zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzz!!#;N
+63$ubs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzz!!!$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!"gS"'HXs8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzz!!#Yb9E5%ls8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s6K":zzzzzzOcbe+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W*!zzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!zzzz!!$A5?iU0+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s0&W0
+zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!
+zzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8V':i;`iXzzzzz!<<*!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s0&W0zzzzzzs8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!#Dc-?:gs8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s1,\Nzzzzzz,9nH5s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W*0%hAX?zzzz!!!#XiSjh:s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*:)&WDSzzzz!!!!:
+)&`JSs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!%e0L]@DSs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!"U,&0zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*D,9m0gzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!&.DOoPI]s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W*X2`C^:zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!zzzz!!&LXS,`Ngs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*b5sYJNzzzzz!!*'!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!&jlV>pSqs8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!"gS"'HXs8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*l91o6bzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!'4+YQ+Y&s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W+?F)q<]zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W+!<E0#!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W++?XEd5zzzzz!!*'!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s!&a5zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W+5Bk[PIzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!zzzz!!'R?\c;^0s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W*!zzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W+?
+F)q<]zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s1,\Nzzzz!!'R?
+\c;^0s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzzz!!*'!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!'R?\c;^0s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8OZ&/H>bNzzzz!!'R?\c;^0s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8P_b9)nqlzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8N'!zzzzz!!%FqIK0?Is8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8OZ&/H>bNzzzz!!*'!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!*'!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzzz!<<*!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8OZ&/H>bNzzzz!!*'!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!*'!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W+]Oc]VDzzzzzz!-<4&s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8OZ&/H>bNzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W+]Oc]VDzzzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8OZ&/H>bN
+zzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+zzzz!!'pS_uKc:s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W+]Oc]VDzzzzzzzBk_;]
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8O;g,6.]Dzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W+]Oc]VDzzzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8O;g,6.]Dzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr<$!zzzzz!/H>bs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzzzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8O;g,6.]Dzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!I=6MDzzzzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!
+zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8Vcbo`+sl
+z!!%FqI/j6Izzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzz!!!!l
+92#<bs8W-!s8W-!s8W-!s8W-!s8W,XiSab:zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!zzzzzzzzzz!!'pS_uKc:s8W-!s8W-!s8W-!s8W*!zzzzzz!!*'!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzzzz!<<*!s8W-!s8W-!s8W-!
+s8W*!zzzzz!!!!l92#<bs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W*!zzzzz\[f9Ns8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzzzz!:/t:
+s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!?XI.?zzz!!$_IBk_9qzzzzzzs8W-!s8W-!s8W-!zzzzzzLPLZbs8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!F)uC&zzzzz!!!$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!<E3$!zzz!!*'!s8W-!S"#lIzzzzzc-=N5s8W-!s7Q'X
+zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!zzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s$8q:zzzz!!*'!s8W-!
+s8W-!s8N'!zzzz!!!$!s8W-!rr<$!zzzzz!-<4&s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!Bk_8]zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8T:+Y5eP&zzzz!!*'!s8W-!s8W-!s8N'!zzzzz!!*'!rr<$!zzzzz!<<*!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!
+zzzzz!!!#Nf@U'&s8W-!s8W-!s8W-!s8W-!s8W-!s8NrS)#sX:zzzz!!*'!s8W-!s8W-!s8Spl
+V#UJqzzzzzzzzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W,lp%8:bzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8NT?
+%fcS0zzz!!!!D,:!6gs8W-!s8W-!s8W-!rr<$!zzzzzzzzzzz!<<*!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!#;N
+63$ubs8W-!s8W-!s8W-!s8W-!s8N'!zzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzzz!!%Fq
+IK0?Is8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8VENlMpnbzzzzz!<<*!s8W-!s8W-!s8W-!s8W,0\[_\?zzzz"U,)0s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W*l91o6bzzzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!
+s8W-!s8W-!s8W-!s8W+qV54.lzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s'K,?
+<E3'!s8W-!s8W-!zz!;6$Xs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!
+s8W-!s8W+]Oc]VDzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W,blg+TNs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!
+s8W*!zzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s38g5zzzzz!)#sXs8W-!s8W-!s8W-!zzzzz!/H>b
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzz5s[g:s8W-!rsoVNzzzzz!<<*!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W*!zzzzzz!!*'!rr<$!zzzz!!!lS)?9a:s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W*!zzzzzz!!"T&/H>bNzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8N'!zzzzzzzzzz!!!#0\[hb?s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!zzzzzzzzzlg*m:s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+zzzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W,Nf@L!&zz!!'4+YHP.5p%A"Xs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s+cAbOcbe+s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+
+EndImage
+Fore
+SplineSet
+104 825 m 0
+ 138 820 185 808 191 774 c 0
+ 226 581 225 101 341 34 c 0
+ 378 12 444 197 442 385 c 0
+ 441 515 405 740 435 739 c 0
+ 477 738 503 735 547 733 c 0
+ 570 732 545 532 571 386 c 0
+ 596 247 671 163 684 170 c 0
+ 728 194 749 355 746 541 c 0
+ 744 657 699 787 735 889 c 0
+ 741 906 849 905 848 860 c 24
+ 839 552 886 104 711 81 c 0
+ 618 69 558 209 521 219 c 1
+ 473 146 479 -10 373 -43 c 0
+ 204 -95 144 169 116 348 c 0
+ 88 527 33 836 104 825 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: I
+Encoding: 73 73 37
+Width: 294
+VWidth: 0
+Flags: W
+HStem: 801.354 20G<160.27 186.814>
+VStem: 103.494 100<133.118 668.464>
+LayerCount: 2
+Fore
+SplineSet
+103.494140625 399.354492188 m 7
+ 103.494140625 651.385742188 93.494140625 671.354492188 81.494140625 759.354492188 c 4
+ 75.208984375 805.450195312 153.045898438 821.354492188 167.494140625 821.354492188 c 7
+ 206.134765625 821.354492188 203.494140625 633.194335938 203.494140625 401.354492188 c 7
+ 203.494140625 169.514648438 207.494140625 55.3544921875 225.494140625 19.3544921875 c 4
+ 231.889648438 6.5634765625 160.280273438 -26 133.494140625 23.3544921875 c 4
+ 97.310546875 90.0263671875 103.494140625 253.322265625 103.494140625 399.354492188 c 7
+EndSplineSet
+EndChar
+
+StartChar: S
+Encoding: 83 83 38
+Width: 452
+VWidth: 0
+Flags: WO
+VStem: 15.6475 77.847<161.304 302.475>
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+233.494140625 350 m 0
+ 132.463867188 578.133789062 89.6201171875 758.918945312 189.647460938 816 c 0
+ 301.801757812 880 444.677734375 667.088867188 373.647460938 576 c 0
+ 333.647460938 524.704101562 251.044921875 784.64453125 233.494140625 744 c 0
+ 195.494140625 656 290.393554688 427.130859375 313.494140625 374 c 0
+ 413.495117188 144 447.494415283 -30 317.494140625 -82 c 0
+ 190.283385938 -132.884194369 37.6484375 36 15.6474609375 136 c 0
+ -9.1318359375 248.631835938 29.4944152832 366 93.4944152832 404 c 1
+ 67.4944152832 284 81.7646484375 47.9736328125 261.647460938 8 c 0
+ 351.6484375 -12 245.11328125 323.764648438 233.494140625 350 c 0
+EndSplineSet
+EndChar
+
+StartChar: F
+Encoding: 70 70 39
+Width: 486
+VWidth: 0
+Flags: W
+HStem: 732.799 69.8008<211.246 362.136>
+VStem: 103.465 89.5352<101.832 363.934>
+LayerCount: 2
+Back
+Image: 58 120 2 174 0 ffffffff -24 861 8.53333 8.53333 0
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzs8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzzzzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzzzzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!
+s8N'!zzzzzzzzzzzzzzzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8N'!zzzzzzzzzzzzzzzzzzzs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8N'!zzzzzzzzzzzzzzzzzzzzzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzzzzzzzzzzzzzzzzzzzzzz!<<*!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!zzzzzzzzzzzzzzzzzzzzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzzzzzzzzzzzzzzzz!<<*!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzzzzzzzzzzz!<<*!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzzzzzz!!*'!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzzzzzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!zzzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzzz!<<*!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!zzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzzs8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W*!zzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!*'!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!
+zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!
+zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8N'!zzzzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W*!zzzzzzzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!
+s8W-!s8W-!rr<$!zzzzzzzzzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzzzzzzzzzzzzzzzzzs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8N'!zzzzzzzzzzzzzzzzzzzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzzzzzzzzzzzzzzzzzs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8N'!zzzzzzzzzzzzzzzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!zzzzzzzzzzzzzzzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8N'!zzzzzzzzzzzzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!zzzzzzzzzzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzzzzzz!<<*!!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzz!!*'!
+rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzz!!*'!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!
+zzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!<<*!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8N'!zzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzz!!!$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!
+zzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!<<*!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8V]^oDejjs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8N'!zzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+o()AOs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8VWZnc/Xhs8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!o()AOs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8VZ\o)Jai
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!nF5rIs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8VWZnc/Xhs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8N'!zzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!oCMSRs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8Vifp](9ns8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr2oss8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!
+zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzz!!!$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8N'!zzzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!zzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!<<*!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!
+zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzz!<<*!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzs8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!zzzzzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzz!!*'!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!
+zzzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!zzzzz!<<*!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W*!zzzzz!!!$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!zzzz!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzs8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!z!!!$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!
+EndImage
+Fore
+SplineSet
+201 -143.400390625 m 0
+ 132.598925952 -110.034343975 127 -59.400390625 103.46484375 342.768554688 c 0
+ 87.4697265625 616.09375 53.533879208 831.386975714 119.522460938 839.897460938 c 0
+ 162.734995131 845.470540766 176.3515625 550.313476562 193 272.599609375 c 0
+ 202.348632812 116.65625 283 -183.399993896 201 -143.400390625 c 0
+113.934570312 442.415039062 m 0
+ 113.537506709 458.97085759 148.444335938 486.041015625 225 496.599609375 c 0
+ 301.555664062 507.159179688 366.342397504 525.493569987 391.30859375 480.673828125 c 0
+ 427 416.600006104 333.276367188 431.384765625 256.720703125 420.826171875 c 0
+ 180.165039062 410.266601562 117 314.600006104 113.934570312 442.415039062 c 0
+103 716.599609375 m 0
+ 102.710460616 734.261458805 137.005859375 782.466796875 223 802.599609375 c 0
+ 308.994140625 822.733398438 345 840.599975586 415 776.599609375 c 0
+ 428.035969464 764.680940523 345.788085938 752.932617188 259.793945312 732.798828125 c 0
+ 173.799804688 712.665039062 105 594.599975586 103 716.599609375 c 0
+EndSplineSet
+EndChar
+
+StartChar: G
+Encoding: 71 71 40
+Width: 622
+VWidth: 0
+Flags: HWO
+HStem: 768.6 70.0004<250.8 326.191>
+VStem: 85 82<199.428 590.034> 389 74<211.092 448.588>
+LayerCount: 2
+Fore
+SplineSet
+282.78515625 457.375976562 m 5
+ 306.351812723 385.701173259 369.867931394 443.636474082 465.377929688 467.759765625 c 5
+ 559.572265625 495.71875 585.596679688 536.374023438 579 558.599609375 c 4
+ 572.403320312 580.826171875 535.670898438 576.24609375 441.4765625 548.288085938 c 4
+ 347.28125 520.330078125 276.1875 479.6015625 282.78515625 457.375976562 c 5
+393 522.599609375 m 5
+ 329 430.600585938 368 514.094726562 368 402 c 4
+ 368 202.176757812 300 35.400390625 248 80 c 4
+ 204.423828125 117.375 167 184.776367188 167 384.599609375 c 4
+ 167 584.423828125 227.591796875 768.599609375 285 768.599609375 c 4
+ 310.204080627 768.599609375 335 736.599975586 379 694.599609375 c 5
+ 546.669921875 673.840820312 332.76322306 838.599975586 277 838.599975586 c 4
+ 135 838.599975586 58 594.880859375 58 352 c 4
+ 58 109.120117188 174.328 -41.3999633789 277 -41.3999633789 c 4
+ 379.672 -41.3999633789 463 103.719726562 463 346.599609375 c 4
+ 463 457.567382812 447 542.600585938 393 522.599609375 c 5
+EndSplineSet
+EndChar
+
+StartChar: two
+Encoding: 50 50 41
+Width: 696
+VWidth: 0
+Flags: W
+HStem: 796 20G<192.936 300.953>
+VStem: 104.927 342.54<554.462 726.7>
+LayerCount: 2
+Fore
+SplineSet
+273.92578125 697.630859375 m 0
+ 235.962890625 725.44921875 166.306640625 639.299804688 138.5859375 646.900390625 c 0
+ 101.39453125 657.096679688 104.926757812 693.125976562 104.926757812 726.700195312 c 27
+ 104.926757812 783.762695312 160.165039062 816 225.706054688 816 c 3
+ 376.19921875 816 447.466796875 685.959960938 447.466796875 554.461914062 c 27
+ 447.466796875 375.407226562 343.225585938 272.030273438 302.926757812 116.80078125 c 1
+ 394.705078125 104.831054688 555.084960938 249.23046875 641.506835938 247.900390625 c 0
+ 669.685546875 247.466796875 662.646484375 171.439453125 630.325195312 146.630859375 c 24
+ 521.915039062 63.41796875 410.545898438 15.5302734375 311.544921875 -5.369140625 c 0
+ 256.49609375 -16.9912109375 177.094726562 -13.2265625 172.24609375 23.7001953125 c 0
+ 157.10546875 139.030273438 225.162109375 217.470703125 277.186523438 342.900390625 c 0
+ 327.385742188 463.930664062 382.825195312 617.831054688 273.92578125 697.630859375 c 0
+EndSplineSet
+EndChar
+
+StartChar: nine
+Encoding: 57 57 42
+Width: 572
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+180.706054688 662 m 0
+ 215.46484375 713.127929688 251.708007812 712.275390625 272.706054688 698 c 0
+ 293.705078125 683.723632812 291.547851562 661.403320312 256.788085938 610.275390625 c 0
+ 222.029296875 559.1484375 183.705078125 543.723632812 162.706054688 558 c 0
+ 141.70703125 572.276367188 145.947265625 610.873046875 180.706054688 662 c 0
+268.706054688 822 m 27
+ 124.40625 822 46.7060546875 704.908203125 46.7060546875 526 c 3
+ 46.7060546875 464.3203125 120.362304688 429.235351562 180.706054688 442 c 0
+ 284.706054688 464 260.706054688 518 304.706054688 506 c 1
+ 314.706054688 404 302.706054688 412 322.706054688 276 c 0
+ 334.724609375 194.271484375 357.80859375 90.93359375 428.706054688 0 c 24
+ 449.7265625 -26.9609375 518.502929688 7.9130859375 506.706054688 40 c 0
+ 456.706054688 176 448.977539062 207.202148438 434.706054688 330 c 1
+ 415.389648438 496.2109375 414.706054688 590 420.706054688 780 c 1
+ 411.495117188 813.09765625 365.8203125 766.849609375 332.706054688 776 c 24
+ 303.078125 784.186523438 299.444335938 822 268.706054688 822 c 27
+EndSplineSet
+EndChar
+
+StartChar: zero
+Encoding: 48 48 43
+Width: 569
+VWidth: 0
+Flags: W
+HStem: -2.06445 127.596<287.107 365.6>
+LayerCount: 2
+Fore
+SplineSet
+82.6748046875 367.42578125 m 0
+ 54.3291015625 558.821289062 80.5595703125 817.9453125 178.340820312 819.48046875 c 0
+ 324.083984375 821.768554688 470.693359375 488.518554688 497.266601562 289.833007812 c 0
+ 525.131835938 81.50390625 432.259765625 -0.2412109375 319.483398438 -2.064453125 c 0
+ 221.580078125 -3.6474609375 113.463867188 159.533203125 82.6748046875 367.42578125 c 0
+187.19921875 360.134765625 m 0
+ 215.543945312 208.842773438 293.60546875 124.530273438 323.904296875 125.53125 c 0
+ 387.482421875 127.631835938 396.931640625 208.744140625 375.483398438 335.631835938 c 0
+ 354.224609375 461.404296875 276.083984375 649.465820312 213.483398438 649.631835938 c 0
+ 162.083984375 649.768554688 163.504882812 486.599609375 187.19921875 360.134765625 c 0
+EndSplineSet
+EndChar
+
+StartChar: six
+Encoding: 54 54 44
+Width: 748
+VWidth: 0
+Flags: W
+HStem: 0 119.973<294.86 507.944>
+VStem: 434.514 100<179.995 340.514>
+LayerCount: 2
+Fore
+SplineSet
+534.513671875 284.5625 m 0
+ 537.799804688 324.65625 578.100585938 377.443359375 595.706054688 376 c 0
+ 625.60546875 373.548828125 636.977539062 316.4296875 623.08984375 269.407226562 c 0
+ 612.770507812 234.466796875 560.81640625 170.4375 544.341796875 176.809570312 c 0
+ 527.868164062 183.181640625 531.538085938 248.251953125 534.513671875 284.5625 c 0
+383.111328125 119.97265625 m 0
+ 185.762695312 119.97265625 178.19581284 350.57927729 205.706054688 496 c 0
+ 228.513671875 616.56237793 261.706054688 694 285.706054688 784 c 0
+ 298.006835938 830.127929688 181.277846201 820.261949819 159.706054688 776 c 24
+ 84.8349609375 622.375976562 72.513671875 474.5625 72.513671875 346.5625 c 3
+ 72.513671875 168.952148438 182.80078125 0 417.706054688 0 c 0
+ 595.706054688 0 697.706054688 168 711.706054688 252 c 0
+ 726.245117188 327.399414062 697.462784927 447.999998294 615.706054688 476 c 1
+ 533.526367188 504.762695312 446.657226562 417.329101562 434.513671875 332.5625 c 0
+ 423.936523438 258.727539062 458.951171875 119.97265625 383.111328125 119.97265625 c 0
+EndSplineSet
+EndChar
+
+StartChar: seven
+Encoding: 55 55 45
+Width: 493
+VWidth: 0
+Flags: WO
+VStem: 310.891 100<118.687 652.171>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+314 706 m 5
+ 262.532226562 690.630859375 161.186477206 650.435159947 77.7060546875 638 c 4
+ 24 630 -26.2412109375 696.555664062 0 710 c 4
+ 28.3251953125 724.512695312 81.1928692056 731.874289223 116 742 c 4
+ 226 774 385.269953703 846.042580092 406.5 805.5 c 5
+ 432.293945312 765 420.15625 614.551757812 410.890625 382.896484375 c 4
+ 401.624023438 151.2421875 401.05859375 37.013671875 417.60546875 0.3232421875 c 4
+ 423.484375 -12.7138671875 350.630859375 -42.388671875 325.838867188 7.9970703125 c 4
+ 292.348632812 76.0615234375 305.053710938 238.979492188 310.890625 384.895507812 c 4
+ 320.309570312 620.357421875 321.930664062 630.424804688 314 706 c 5
+EndSplineSet
+EndChar
+
+StartChar: three
+Encoding: 51 51 46
+Width: 582
+VWidth: 0
+Flags: W
+HStem: 725.22 90.7803<78.4213 261.035>
+LayerCount: 2
+Fore
+SplineSet
+290 470 m 4
+ 308 542 400.600585938 578.471679688 400.600585938 674.594726562 c 4
+ 400.600585938 745.188476562 309.811523438 816 173 816 c 4
+ 113.41796875 816 63.2001953125 798.693359375 63.2001953125 768.060546875 c 4
+ 63.2001953125 750.036132812 59.9892578125 730.694335938 93.80078125 725.219726562 c 4
+ 119 721.139648438 187.708444434 753.431200005 222 738 c 4
+ 302 702 265.19921875 625.33984375 231 557 c 4
+ 196.107421875 487.275390625 118.3828125 440.817382812 143 374 c 4
+ 157 336 249.463867188 355.857421875 300 351 c 4
+ 398 341.580078125 344 254 296 210 c 4
+ 191.247070312 113.9765625 35.185546875 124.981445312 46 -12 c 4
+ 49 -50 288.782226562 44.8046875 358 116 c 4
+ 463 224 511.629368712 310.304207464 452.9999865 398.999988109 c 4
+ 414 458 272.411132812 399.64453125 290 470 c 4
+EndSplineSet
+EndChar
+
+StartChar: eight
+Encoding: 56 56 47
+Width: 668
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+601.983398438 326.599609375 m 0
+ 602.108398438 126.76171875 383.983398438 -31.3994140625 243.983398438 32.599609375 c 0
+ 154.930664062 73.3095703125 119.983398438 138.600585938 137.983398438 216.599609375 c 0
+ 160.60546875 314.627929688 261.440429688 336.258789062 316.3203125 406.36328125 c 0
+ 328.337890625 421.71484375 74.400390625 399.990234375 76.640625 539.138671875 c 0
+ 78.8798828125 657.04296875 242.400390625 801.501953125 416 810 c 0
+ 530.240234375 815.310546875 545.919921875 718.55078125 545.919921875 650.669921875 c 3
+ 545.919921875 637.934570312 505.560546875 487.30859375 449.600585938 444.602539062 c 1
+ 519.983215332 444.600036621 601.88671875 481.06640625 601.983398438 326.599609375 c 0
+451.939453125 351.25 m 0
+ 356.26953125 316.059570312 214.022186624 225.757550349 256.668945312 156.569335938 c 0
+ 282.3046875 114.979042053 359.430664062 101.422851562 444.204101562 200.907226562 c 0
+ 493.4296875 258.673828125 522.7421875 377.290039062 451.939453125 351.25 c 0
+394.3046875 554.979492188 m 0
+ 434.170898438 597.842773438 455.653320312 690.631835938 410.3046875 698.979492188 c 0
+ 315.880859375 716.359375 136.129882812 566.248046875 218.3046875 520.979492188 c 0
+ 242.95703125 507.3984375 332.625976562 488.662109375 394.3046875 554.979492188 c 0
+EndSplineSet
+EndChar
+
+StartChar: five
+Encoding: 53 53 48
+Width: 582
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+106 22.599609375 m 0
+ 94.3699276545 -43.8583018066 407.868437024 83.4777408239 479.733398438 152 c 0
+ 565.733581543 234 550.362304688 347.3046875 491.733398438 436 c 0
+ 452.733398438 495 247.590820312 409.716796875 241.733398438 482 c 0
+ 236.091796875 551.62890625 224 614.600585938 240 644.599609375 c 0
+ 275.83984375 711.797851562 321.983215332 714.600036621 373.703125 722.490234375 c 0
+ 432.602241716 731.475665351 463.181331808 754.285036262 478.291992188 780.930664062 c 0
+ 493.983215332 808.600036621 504.16796875 828.456054688 469.983398438 830.599609375 c 0
+ 444.505859375 832.197265625 386.853515625 812.896484375 320.607421875 813.6640625 c 0
+ 232.887695312 814.682617188 134 774.600585938 106 686.599609375 c 0
+ 82.3603515625 612.302734375 119.384765625 456.791015625 146.45703125 390.9296875 c 0
+ 173.5 325.14453125 364.884763305 379.239968379 402 344.599609375 c 0
+ 456.868213894 293.389706089 375.137695312 213.677734375 302 172.599609375 c 0
+ 208.9140625 120.318359375 120 102.600036621 106 22.599609375 c 0
+EndSplineSet
+EndChar
+
+StartChar: L
+Encoding: 76 76 49
+Width: 764
+VWidth: 0
+Flags: W
+HStem: -7.26953 124<284.801 512.557>
+VStem: 111.645 140<155.508 498.839>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+116.975280762 122 m 0
+ 116.975280762 189.344 130.02734375 116.73046875 327.643554688 116.73046875 c 1
+ 413.18359375 117.481445312 686.801757812 182.012695312 677.643554688 114.73046875 c 1
+ 677.643554688 47.38671875 517.259765625 -7.26953125 319.643554688 -7.26953125 c 0
+ 122.02734375 -7.26953125 116.975280762 54.656 116.975280762 122 c 0
+111.64453125 192.73046875 m 0
+ 111.64453125 404.698242188 138.700195312 756.73046875 233.643554688 756.73046875 c 0
+ 328.587890625 756.73046875 251.64453125 564.698242188 251.64453125 352.73046875 c 0
+ 251.64453125 140.762695312 328.587890625 -11.26953125 233.643554688 -11.26953125 c 0
+ 138.700195312 -11.26953125 111.64453125 -19.2373046875 111.64453125 192.73046875 c 0
+EndSplineSet
+EndChar
+
+StartChar: O
+Encoding: 79 79 50
+Width: 698
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+209.247070312 367.168945312 m 0
+ 225.795898438 233.500976562 324.500976562 116.181640625 413.247070312 127.168945312 c 0
+ 501.993164062 138.157226562 519.9296875 188.541992188 515.369140625 323.15234375 c 0
+ 510.814453125 457.612304688 436.116210938 718.140625 347.369140625 707.15234375 c 0
+ 258.623046875 696.165039062 184.427734375 567.637695312 209.247070312 367.168945312 c 0
+77.5888671875 370.337890625 m 0
+ 48.966796875 601.517578125 168.509765625 806.311523438 335.045898438 826.9296875 c 0
+ 501.583007812 847.548828125 613.36907959 589.152038574 629.369140625 359.15234375 c 0
+ 645.534941897 126.770145273 595.953125 23.4013671875 429.416992188 2.783203125 c 0
+ 262.880859375 -17.8359375 106.2109375 139.159179688 77.5888671875 370.337890625 c 0
+EndSplineSet
+EndChar
+
+StartChar: A
+Encoding: 65 65 51
+Width: 649
+VWidth: 0
+Flags: W
+HStem: 366.747 94.3662<304.766 436.531>
+VStem: 445.057 106.638<90.8114 366.747>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+551.694335938 329.24609375 m 16
+ 543.641601562 85.173828125 642.241210938 -50.0107421875 535.643554688 0 c 4
+ 429.248046875 49.9169921875 454.734375 133.162109375 445.056640625 366.747070312 c 1
+ 420.13671875 365.202148438 391.549804688 362.62890625 360.659179688 357.364257812 c 0
+ 318.009765625 350.095703125 280.098632812 337.50390625 249.6796875 326.44140625 c 1
+ 262.388671875 132.116210938 272.076171875 20.94921875 151.643554688 -7.26953125 c 0
+ 120.451171875 -14.578125 136.836914062 240.649414062 124.64453125 420.041015625 c 0
+ 120.420898438 482.186523438 106.094519826 645.749069929 129.520507812 702.452148438 c 0
+ 167.643798828 794.73034668 327.8984375 838.416015625 413.643554688 790.73046875 c 0
+ 512.181640625 735.930664062 557.888671875 517.002929688 551.694335938 329.24609375 c 16
+436.53125 461.11328125 m 1
+ 440.7421875 545.03125 415.141601562 667.7265625 320.109375 676.301757812 c 24
+ 237.717773438 683.736328125 232.708007812 618.26171875 243.388671875 478.541992188 c 0
+ 245.01171875 457.234375 246.75 435.2109375 248.453125 412.875 c 1
+ 276.23828125 431.662109375 310.8828125 447.786132812 350.315429688 454.506835938 c 0
+ 385.552734375 460.512695312 408.20703125 466.451171875 436.53125 461.11328125 c 1
+EndSplineSet
+EndChar
+
+StartChar: one
+Encoding: 49 49 52
+Width: 416
+VWidth: 0
+Flags: W
+VStem: 162.141 91.583<355.482 496.076>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+162.140625 342.030273438 m 4
+ 133.0703125 584.276367188 68.888671875 806.225585938 145.619140625 815.43359375 c 4
+ 222.348632812 824.640625 224.653320312 845.045898438 253.723632812 602.798828125 c 4
+ 282.79296875 360.552734375 300 0 255.629882812 -5.3916015625 c 4
+ 178.913085938 -14.7138671875 191.209960938 99.783203125 162.140625 342.030273438 c 4
+EndSplineSet
+EndChar
+
+StartChar: four
+Encoding: 52 52 53
+Width: 652
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+530.08984375 -2.701171875 m 1
+ 574.616210938 1.1875 539.60546875 362.3046875 518.739257812 605.39453125 c 0
+ 497.873046875 848.486328125 494.879882812 828.170898438 417.8828125 821.561523438 c 0
+ 353.703125 816.052734375 392.978515625 674.162109375 416.38671875 481.41796875 c 1
+ 317.705078125 437.571289062 279.516601562 344.1171875 214 414.219726562 c 0
+ 194.6875 434.884765625 203.53125 817.802734375 153.559570312 819.4921875 c 0
+ 15.638671875 824.15625 84.166015625 618.202148438 105.033203125 375.111328125 c 0
+ 119.76171875 203.518554688 306.241210938 248.122070312 427.782226562 341.955078125 c 1
+ 450.184570312 235.13671875 431.537109375 -17.37890625 530.08984375 -2.701171875 c 1
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 54
+Width: 224
+VWidth: 0
+Flags: W
+HStem: 77.9434 88.0566<65.623 168.934> 372.4 89<67.648 167.971>
+VStem: 54.7334 121<86.6884 154.65 380.311 447.973>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+54.4755859375 120.028320312 m 0
+ 57.8427734375 146.817382812 87.9990234375 170.239257812 121.733398438 166 c 0
+ 155.467773438 161.759765625 180.018554688 148.595703125 176.651367188 121.806640625 c 0
+ 173.284179688 95.0166015625 158.265625 79.7705078125 108.650390625 77.943359375 c 0
+ 75.28515625 77.09765625 51.109375 93.23828125 54.4755859375 120.028320312 c 0
+54.7333984375 407.400390625 m 0
+ 54.7333984375 434.400390625 81.7333984375 461.400390625 115.733398438 461.400390625 c 0
+ 149.733398438 461.400390625 175.733398438 451.400390625 175.733398438 424.400390625 c 0
+ 175.733398438 397.400390625 162.733398438 370.799804688 113.733398438 372.400390625 c 0
+ 80.375 373.489257812 54.7333984375 380.400390625 54.7333984375 407.400390625 c 0
+EndSplineSet
+EndChar
+
+StartChar: T
+Encoding: 84 84 55
+Width: 635
+VWidth: 0
+Flags: W
+VStem: 327.369 116<175.32 457.945>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+456.890625 705.0078125 m 4
+ 394.666015625 702.159179688 284.015625 692.125 225.076171875 675.090820312 c 4
+ 166.13671875 658.056640625 -11.1474609375 662.6484375 42.0986328125 745.055664062 c 4
+ 60.546875 773.15625 199.9765625 778.09375 419.369140625 800 c 4
+ 645.803710938 822.549804688 731.186523438 885.302734375 635 746 c 4
+ 615.553710938 717.94921875 676.724609375 715.876953125 456.890625 705.0078125 c 4
+327.369140625 336 m 4
+ 319.467773438 397.786132812 304.73828125 524 284.73828125 582 c 4
+ 264.73828125 640 274.369140625 817 359.369140625 768 c 4
+ 388.369140625 751 410.369140625 524 443.369140625 306 c 4
+ 477.369140625 81 533.369140625 -110 367.369140625 -2 c 4
+ 338.758789062 16.61328125 343.73828125 208 327.369140625 336 c 4
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 56
+Width: 212
+VWidth: 0
+Flags: W
+HStem: 340 86<94.121 199.304>
+VStem: 70.2031 68.1973<-137.181 1.83781> 85.7334 116<351.656 422.577>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+85.7333984375 386 m 0xa0
+ 85.7333984375 424.639648438 102.405273438 426 137.733398438 426 c 0
+ 173.061523438 426 201.733398438 426.639648438 201.733398438 388 c 0
+ 201.733398438 349.360351562 203.061523438 340 167.733398438 340 c 0
+ 132.405273438 340 85.7333984375 347.360351562 85.7333984375 386 c 0xa0
+70.203125 -39.7529296875 m 1xc0
+ 75.451171875 21.4228515625 90.748046875 101.989257812 142.221679688 58.9140625 c 1
+ 185.134765625 44.1015625 158.747070312 -0.548828125 138.400390625 -60.70703125 c 0
+ 118.053710938 -120.866210938 125.435546875 -149.909179688 98.787109375 -140.430664062 c 0
+ 72.138671875 -130.952148438 63.193359375 -99.5517578125 70.203125 -39.7529296875 c 1xc0
+EndSplineSet
+EndChar
+
+StartChar: C
+Encoding: 67 67 57
+Width: 485
+VWidth: 0
+Flags: W
+HStem: 720 104<279.905 391.547>
+VStem: 32.7461 119<220.252 518.543>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+453.421875 159.314453125 m 24
+ 451.205078125 232.90625 363.74609375 74 271.74609375 108 c 0
+ 217.896484375 127.901367188 143.033203125 200.3671875 151.74609375 400 c 0
+ 159.74609375 583.295898438 268.337890625 720 325.74609375 720 c 0
+ 350.950195312 720 363.376953125 730.599609375 407.376953125 688.599609375 c 1
+ 503.74609375 754 389.74609375 826 299.74609375 824 c 0
+ 157.78125 820.845703125 32.74609375 596.28125 32.74609375 353.400390625 c 0
+ 32.74609375 110.520507812 172.705078125 -12.552734375 275.376953125 -12.552734375 c 0
+ 378.048828125 -12.552734375 456.327148438 62.84765625 453.421875 159.314453125 c 24
+EndSplineSet
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 58
+Width: 413
+VWidth: 0
+Flags: WO
+VStem: 276.63 85.4316<29.6866 127.122>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+167.7109375 718.170898438 m 16
+ 182.400390625 643.614257812 186.916015625 634.471679688 265.294921875 412.23828125 c 0
+ 313.866210938 274.51953125 374.009765625 122.577148438 362.061523438 47.6669921875 c 0
+ 353.215820312 -7.787109375 274.852539062 -0.8955078125 276.629882812 13.294921875 c 0
+ 281.630859375 53.232421875 247.43359375 162.22265625 170.323242188 380.86328125 c 0
+ 93.212890625 599.50390625 37.28515625 739.697265625 50 786 c 8
+ 64.03125 837.090820312 157.469726562 770.155273438 167.7109375 718.170898438 c 16
+EndSplineSet
+EndChar
+
+StartChar: B
+Encoding: 66 66 59
+Width: 644
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+184.028320312 563.44140625 m 0
+ 182.440429688 602.438476562 171.505859375 658.251953125 205.637695312 687.981445312 c 0
+ 239.770507812 717.7109375 345.9453125 723.415039062 371.578125 693.985351562 c 0
+ 397.211914062 664.555664062 392.290039062 630.830078125 358.158203125 601.1015625 c 0
+ 324.026367188 571.372070312 186.751953125 496.522460938 184.028320312 563.44140625 c 0
+453.72265625 532.73046875 m 1
+ 552.188476562 640.083007812 433.416015625 828.114257812 317.578125 821.985351562 c 0
+ 191.611328125 815.3203125 153.560546875 763.536132812 129.963867188 755.278320312 c 0
+ 77.77734375 738.497070312 113.31640625 804.41015625 68.654296875 758.987304688 c 0
+ 20.26171875 708.359375 92.5908203125 525.38671875 107.764648438 390 c 0
+ 128.788085938 200.846679688 51.5771484375 0 152.733398438 2.6669921875 c 0
+ 334.262695312 7.453125 527.336914062 -17.388671875 575.578125 177.985351562 c 0
+ 615.162109375 338.30078125 578.299804688 487.249023438 453.72265625 532.73046875 c 1
+215.578125 341.985351562 m 0
+ 209.578125 469.985351562 310.103515625 470.493164062 333.873046875 470.310546875 c 0
+ 399.9921875 469.803710938 494.18359375 387.813476562 481.391601562 269.97265625 c 0
+ 468.251953125 148.9296875 398.853515625 108.499023438 281.391601562 101.970703125 c 0
+ 209.391601562 97.96875 221.458007812 216.548828125 215.578125 341.985351562 c 0
+EndSplineSet
+EndChar
+
+StartChar: P
+Encoding: 80 80 60
+Width: 572
+VWidth: 0
+Flags: W
+VStem: 115.869 109.02<354.945 577.058>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+108.888671875 759.706054688 m 4
+ 155.888671875 802.706054688 136.888671875 737.706054688 189.888671875 751.706054688 c 4
+ 213.888671875 758.706054688 207.869140625 814 333.869140625 820 c 4
+ 391.869140625 823 598.869140625 677 535.869140625 464 c 4
+ 478.869140625 271 273.869140625 243 261.869140625 242 c 4
+ 173.869140625 237 304.703125 -20.994140625 194.888671875 0 c 4
+ 58.888671875 26 126.869140625 204 115.869140625 394 c 4
+ 107.869140625 530 57.888671875 711.706054688 108.888671875 759.706054688 c 4
+224.888671875 581.706054688 m 4
+ 215.40234375 456.490234375 215.387695312 405.50390625 237.869140625 364 c 4
+ 263.869140625 316 412.352539062 389.8203125 431.869140625 510 c 4
+ 450.869140625 627 364.869140625 694 341.869140625 700 c 4
+ 318.869140625 706 234.888671875 713.706054688 224.888671875 581.706054688 c 4
+EndSplineSet
+EndChar
+
+StartChar: R
+Encoding: 82 82 61
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+108.888671875 759.706054688 m 0
+ 155.888671875 802.706054688 136.888671875 737.706054688 189.888671875 751.706054688 c 0
+ 213.888671875 758.706054688 207.834333874 825.217996482 333.869140625 820 c 0
+ 430.484619141 816 551.099609375 666 540.484375 484 c 0
+ 536.5234375 416.079101562 484.411132812 318.86328125 444.484375 286 c 0
+ 436.663085938 279.561523438 459.116210938 204.936523438 496.484375 136 c 0
+ 534.06640625 66.66796875 584.966796875 3.7900390625 566.484375 -2 c 0
+ 400.484375 -54 349.41796875 243.38671875 330.484375 236.787109375 c 0
+ 293.764648438 223.98828125 266.057617188 220.348632812 261.869140625 220 c 0
+ 173.869140625 215 280.484375 -20 198.484375 0 c 0
+ 63.96484375 32.8095703125 126.869140625 182 115.869140625 372 c 0
+ 107.869140625 508 57.888671875 711.706054688 108.888671875 759.706054688 c 0
+224.484375 604 m 0
+ 214.998046875 478.784179688 215.387695312 371.50390625 237.869140625 330 c 0
+ 263.869140625 282 418.967773438 353.8203125 438.484375 474 c 0
+ 457.484375 591 373.484375 704 350.484375 710 c 0
+ 327.484375 716 234.484375 736 224.484375 604 c 0
+EndSplineSet
+EndChar
+
+StartChar: N
+Encoding: 78 78 62
+Width: 654
+VWidth: 0
+Flags: W
+VStem: 75.6797 125.919<209.735 468.21>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+174.41796875 689.876953125 m 1
+ 241.612304688 777.541015625 277.07421875 796.755859375 388.852539062 813.450195312 c 1
+ 478.39453125 829.202148438 521.887695312 755.921875 539.705078125 659.037109375 c 0
+ 559.123046875 553.453125 574.4609375 198.602539062 582.381835938 125 c 0
+ 584.869140625 101.892578125 633.879882812 118.568359375 645.588867188 99.982421875 c 0
+ 667.846679688 64.6513671875 565.815429688 7.294921875 547.459960938 5.8203125 c 0
+ 461.736328125 -1.068359375 466.554806829 82.431122608 461.336914062 146.57421875 c 0
+ 444.381958008 355 446.23828125 665.572265625 395.793945312 681.583007812 c 1
+ 336.80859375 700.760742188 217.124023438 570.412109375 201.598632812 501.44921875 c 1
+ 179.428710938 390.31640625 247.859375 25.6259765625 187.020507812 8.6982421875 c 0
+ 96.677734375 -15.6162109375 90.95703125 30.01171875 75.6796875 177.221679688 c 0
+ 69.08203125 240.796875 60.591796875 547.40234375 53.6240234375 634.122070312 c 8
+ 48.09765625 702.897460938 -4.6533203125 803.900390625 72.10546875 810.068359375 c 0
+ 124.935546875 814.313476562 153.89453125 770.4921875 174.41796875 689.876953125 c 1
+EndSplineSet
+EndChar
+
+StartChar: V
+Encoding: 86 86 63
+Width: 514
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+282.715820312 158.200195312 m 0
+ 342.715820312 108.200195312 322.071289062 553.200195312 344.071289062 661.200195312 c 0
+ 362.071289062 750.200195312 382.071289062 819.200195312 479.071289062 819.200195312 c 0
+ 528.071289062 819.200195312 565.071289062 721.200195312 486.071289062 738.200195312 c 1
+ 441.071289062 687.200195312 436.715820312 580.200195312 432.715820312 525.200195312 c 0
+ 423.715820312 401.200195312 436.715820312 22.2001953125 299.715820312 14.2001953125 c 0
+ 232.7109375 10.287109375 166.779296875 104.90625 142.715820312 195.200195312 c 16
+ 105.1015625 336.342773438 77.4091796875 534.206054688 69.142578125 666.400390625 c 0
+ 66.244140625 712.74609375 16.7158203125 619.200195312 -3.2841796875 677.200195312 c 0
+ -9.3515625 694.793945312 62.7158203125 833.200195312 115.715820312 815.200195312 c 0
+ 185.309570312 791.564453125 168.809570312 253.122070312 282.715820312 158.200195312 c 0
+EndSplineSet
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 64
+Width: 335
+VWidth: 0
+Flags: W
+HStem: 576 250 590 21G<210.645 242.145>
+VStem: 63 86<614.888 793.75> 203.645 77<615.447 809.501>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+203.64453125 713 m 0x70
+ 203.64453125 791 170.64453125 826 210.64453125 826 c 3xb0
+ 257.64453125 826 280.64453125 802 280.64453125 724 c 3
+ 280.64453125 646 253.64453125 590 230.64453125 590 c 0
+ 190.64453125 590 203.64453125 635 203.64453125 713 c 0x70
+63 699 m 0
+ 63 777 30 812 70 812 c 3
+ 117 812 149 795 149 717 c 3
+ 149 639 113 576 90 576 c 0
+ 50 576 63 621 63 699 c 0
+EndSplineSet
+EndChar
+
+StartChar: Z
+Encoding: 90 90 65
+Width: 586
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+13.4697265625 480.43359375 m 24
+ 87.697265625 627.240234375 116.196107707 812.769469779 264.469726562 819.43359375 c 0
+ 442.470031738 827.433776855 368.469726562 499.43359375 324.469726562 359.43359375 c 1
+ 468.470031738 427.433776855 518.469726562 267.43359375 516.469726562 137.43359375 c 0
+ 513.796875 -36.322265625 360.087890625 -233.56640625 221.087890625 -220.56640625 c 0
+ 98.5615234375 -209.107421875 16.86328125 -42.0146484375 72.087890625 68.43359375 c 0
+ 109.087890625 142.43359375 110.469726562 -80.56640625 208.469726562 -138.56640625 c 0
+ 296.842773438 -190.869140625 407.708984375 -19.3232421875 432.469726562 85.43359375 c 0
+ 458.469726562 195.43359375 414.470703125 301.43359375 258.469726562 269.43359375 c 0
+ 158.138671875 248.852539062 361.328483761 645.815379697 280.469726562 695.43359375 c 0
+ 192.470031738 749.433776855 176.724827351 537.721408992 84.4697265625 463.43359375 c 24
+ 62.29296875 445.576171875 0.622323731106 455.024285928 13.4697265625 480.43359375 c 24
+EndSplineSet
+EndChar
+
+StartChar: slash
+Encoding: 47 47 66
+Width: 455
+VWidth: 0
+Flags: W
+VStem: 73.1631 85.4316<36.4767 133.912>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+267.513671875 724.9609375 m 16
+ 252.82421875 650.404296875 248.30859375 641.26171875 169.9296875 419.028320312 c 0
+ 121.358398438 281.309570312 61.21484375 129.3671875 73.1630859375 54.45703125 c 0
+ 82.0087890625 -0.9970703125 160.372070312 5.89453125 158.594726562 20.0849609375 c 0
+ 153.59375 60.0224609375 187.791015625 169.012695312 264.901367188 387.653320312 c 0
+ 342.01171875 606.293945312 397.939453125 746.487304688 385.224609375 792.790039062 c 8
+ 371.193359375 843.880859375 277.754882812 776.9453125 267.513671875 724.9609375 c 16
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

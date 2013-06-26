@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Sarah Anne</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>copyright</key>
+	<string>Created by Fil Zembowicz (fil@filosophy.org) with FontForge 2.0 (http://fontforge.sf.net)</string>
+	<key>unitsPerEm</key>
+	<integer>1024</integer>
+	<key>xHeight</key>
+	<integer>588</integer>
+	<key>capHeight</key>
+	<integer>825</integer>
+	<key>ascender</key>
+	<integer>819</integer>
+	<key>descender</key>
+	<integer>-205</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string>2013-5-17: Created.</string>
+	<key>openTypeHeadCreated</key>
+	<string>2013/05/18 01:17:28</string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2013, Fil Zembowicz (fil@filosophy.org), with Reserved Font Name 'Sarah Anne'</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 0.1</string>
+	<key>postscriptFontName</key>
+	<string>SarahAnne-Regular</string>
+	<key>postscriptFullName</key>
+	<string>Sarah Anne Regular</string>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>51</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-102</integer>
+    </dict>
+</plist>

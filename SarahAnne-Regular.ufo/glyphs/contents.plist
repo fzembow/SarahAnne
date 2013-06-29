@@ -136,5 +136,21 @@
 	<string>Z_.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
+	<key>Y</key>
+	<string>Y_.glif</string>
+	<key>K</key>
+	<string>K_.glif</string>
+	<key>M</key>
+	<string>M_.glif</string>
+	<key>J</key>
+	<string>J_.glif</string>
+	<key>U</key>
+	<string>U_.glif</string>
+	<key>X</key>
+	<string>X_.glif</string>
+	<key>Q</key>
+	<string>Q_.glif</string>
+	<key>D</key>
+	<string>D_.glif</string>
     </dict>
 </plist>

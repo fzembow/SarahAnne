@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="326"/>
+  <advance width="303"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="92.293" y="424.385" type="curve" smooth="yes"/>
-      <point x="98.293" y="668.385"/>
-      <point x="100.293" y="823.385"/>
-      <point x="174.293" y="823.385" type="curve" smooth="yes"/>
-      <point x="252.293" y="823.385"/>
-      <point x="218.293" y="621.385"/>
-      <point x="221.293" y="377.385" type="curve" smooth="yes"/>
-      <point x="225.293" y="47.3848"/>
-      <point x="280.293" y="7"/>
-      <point x="175.293" y="-0" type="curve" smooth="yes"/>
-      <point x="116.293" y="-4"/>
-      <point x="84.293" y="94.3848"/>
+      <point x="88.293" y="424.385" type="curve" smooth="yes"/>
+      <point x="94.293" y="668.385"/>
+      <point x="96.293" y="823.385"/>
+      <point x="170.293" y="823.385" type="curve" smooth="yes"/>
+      <point x="248.293" y="823.385"/>
+      <point x="201.158" y="621.533"/>
+      <point x="204.158" y="377.533" type="curve" smooth="yes"/>
+      <point x="208.158" y="47.5332"/>
+      <point x="276.293" y="7"/>
+      <point x="171.293" y="0" type="curve" smooth="yes"/>
+      <point x="112.293" y="-4"/>
+      <point x="80.293" y="94.3848"/>
     </contour>
   </outline>
   <lib>
@@ -33,9 +33,9 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>92</integer>
+	    <integer>88</integer>
 	    <key>width</key>
-	    <integer>129</integer>
+	    <integer>116</integer>
 	  </dict>
 	</array>
       </dict>

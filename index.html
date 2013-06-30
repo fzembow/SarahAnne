@@ -6,70 +6,16 @@
     <link rel="icon" 
           type="image/png" 
           href="icon.png">
-    <style>
-      @font-face {  
-        font-family: SarahAnne;  
-        src: url(SarahAnne-Regular.ttf) format("truetype");  
-      }
-
-      body{
-              font-family:SarahAnne;
-      }
-
-      h1{
-        font-size:38px;
-      }
-
-      section{
-        width:350px;;
-        margin:0px auto;
-        outline:0;
-      }
-
-      section p{
-        font-size:13px;
-        line-height:21px;
-        text-align:justify;
-      }
-
-      a{
-        color:gray;
-        text-decoration:none;
-      }
-
-      a:hover{
-        color:red;
-        cursor:pointer;
-        text-decoration:underline;
-      }
-
-      #glyphs{
-        overflow:auto;
-      }
-
-      #glyphs span{
-        display:inline-block;
-        float:left;
-        font-size:24px;
-        border:1px dotted gray;
-        padding:5px 5px 0 5px;
-        text-align:center;
-        width:42px;
-      }
-
-      #glyphs span:hover{
-        background:gray;
-        color:white;
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" type="text/css">
   </head>
   <body>
-    <section contenteditable="true" spellcheck="false">
+    <section  spellcheck="false">
       <h1>Sarah Anne font</h1>
       <ul>
         <li>designed by Fil Zembowicz</li>
         <li><a href="https://github.com/fzembow/SarahAnne">github.com/fzembow/SarahAnne</a></li>
       </ul>
+
       <hr/>
 
       <h2>Glyphs</h2>
@@ -113,19 +59,35 @@
       </div>
       <br>
 
+      <hr>
+
+      <h2>Words</h2>
+      <div id="words">
+
+        <div id="letters"></div>
+        <div id="words_matching">
+        </div>
+
+        <script src="words.js"></script>
+
+      </div>
+
       <hr/>
+
       <h2>Text</h2>
+      <div contenteditable="true">
 
 
-      <p>To regard all things and principles of things as inconstant modes or fashions has more and more become the tendency of modern thought. Let us begin with that which is without --our physical life. Fix upon it in one of its more exquisite intervals, the moment, for instance, of delicious recoil from the flood of water in summer heat. What is the whole physical life in that moment but a combination of natural elements to which science gives their names? But those elements, phosphorus and lime and delicate fibres, are present not in the human body alone: we detect them in places most remote from it. Our physical life is a perpetual motion of them -the passage of the blood, the waste and repairing of the brain under every ray of light and sound-- processes which science reduces to simpler and more elementary forces. Like the elements of which we are composed, the action of these forces extends beyond us: it rusts iron and ripens corn. Far out on every side of us those elements are broadcast, driven in many currents; and birth and gesture and death and the springing of violets from the grave are but a few out of ten thousand resultant combinations. That clear, perpetual outline of face and limb is but an image of ours, under which we group them-- a design in a web, the actual threads of which pass out beyond it. This at least of flame-like our life has, that it is but the concurrence, renewed from moment to moment, of forces parting sooner or later on their ways.</p>
+        <p>To regard all things and principles of things as inconstant modes or fashions has more and more become the tendency of modern thought. Let us begin with that which is without --our physical life. Fix upon it in one of its more exquisite intervals, the moment, for instance, of delicious recoil from the flood of water in summer heat. What is the whole physical life in that moment but a combination of natural elements to which science gives their names? But those elements, phosphorus and lime and delicate fibres, are present not in the human body alone: we detect them in places most remote from it. Our physical life is a perpetual motion of them -the passage of the blood, the waste and repairing of the brain under every ray of light and sound-- processes which science reduces to simpler and more elementary forces. Like the elements of which we are composed, the action of these forces extends beyond us: it rusts iron and ripens corn. Far out on every side of us those elements are broadcast, driven in many currents; and birth and gesture and death and the springing of violets from the grave are but a few out of ten thousand resultant combinations. That clear, perpetual outline of face and limb is but an image of ours, under which we group them-- a design in a web, the actual threads of which pass out beyond it. This at least of flame-like our life has, that it is but the concurrence, renewed from moment to moment, of forces parting sooner or later on their ways.</p>
 
-      <p>Or if we begin with the inward world of thought and feeling, the whirlpool is still more rapid, the flame more eager and devouring. There it is no longer the gradual darkening of the eye, the gradual fading of colour from the wall --movements of the shore-side, where the water flows down indeed, though in apparent rest-- but the race of the midstream, a drift of momentary acts of sight and passion and thought. At first sight experience seems to bury us under a flood of external objects, pressing upon us with a sharp and importunate reality, calling us out of ourselves in a thousand forms of action. But when reflexion begins to play upon these objects they are dissipated under its influence; the cohesive force seems suspended like some trick of magic; each object is loosed into a group of impressions --colour, odour, texture-- in the mind of the observer. And if we continue to dwell in thought on this world, not of objects in the solidity with which language invests them, but of impressions, unstable, flickering, inconsistent, which burn and are extinguished with our consciousness of them, it contracts still further: the whole scope of observation is dwarfed into the narrow chamber of the individual mind. Experience, already reduced to a group of impressions, is ringed round for each one of us by that thick wall of personality through which no real voice has ever pierced on its way to us, or from us to that which we can only conjecture to be without. Every one of those impressions is the impression of the individual in his isolation, each mind keeping as a solitary prisoner its own dream of a world. Analysis goes a step further still, and assures us that those impressions of the individual mind to which, for each one of us, experience dwindles down, are in perpetual flight;that each of them is limited by time, and that as time is infinitely divisible, each of them is infinitely divisible also; all that is actual in it being a single moment, gone while we try to apprehend it, of which it may ever be more truly said that it has ceased to be than that it is. To such a tremulous wisp constantly re-forming itself on the stream, to a single sharp impression, with a sense in to, a relic more or less fleeting, of such moments gone by, what is real in our life fines itself down. It is with this movement, with the passage and dissolution of impressions, images, sensations, that analysis leaves off --that continual vanishing away, that strange, perpetual, weaving and unweaving of ourselves.</p>
+        <p>Or if we begin with the inward world of thought and feeling, the whirlpool is still more rapid, the flame more eager and devouring. There it is no longer the gradual darkening of the eye, the gradual fading of colour from the wall --movements of the shore-side, where the water flows down indeed, though in apparent rest-- but the race of the midstream, a drift of momentary acts of sight and passion and thought. At first sight experience seems to bury us under a flood of external objects, pressing upon us with a sharp and importunate reality, calling us out of ourselves in a thousand forms of action. But when reflexion begins to play upon these objects they are dissipated under its influence; the cohesive force seems suspended like some trick of magic; each object is loosed into a group of impressions --colour, odour, texture-- in the mind of the observer. And if we continue to dwell in thought on this world, not of objects in the solidity with which language invests them, but of impressions, unstable, flickering, inconsistent, which burn and are extinguished with our consciousness of them, it contracts still further: the whole scope of observation is dwarfed into the narrow chamber of the individual mind. Experience, already reduced to a group of impressions, is ringed round for each one of us by that thick wall of personality through which no real voice has ever pierced on its way to us, or from us to that which we can only conjecture to be without. Every one of those impressions is the impression of the individual in his isolation, each mind keeping as a solitary prisoner its own dream of a world. Analysis goes a step further still, and assures us that those impressions of the individual mind to which, for each one of us, experience dwindles down, are in perpetual flight;that each of them is limited by time, and that as time is infinitely divisible, each of them is infinitely divisible also; all that is actual in it being a single moment, gone while we try to apprehend it, of which it may ever be more truly said that it has ceased to be than that it is. To such a tremulous wisp constantly re-forming itself on the stream, to a single sharp impression, with a sense in to, a relic more or less fleeting, of such moments gone by, what is real in our life fines itself down. It is with this movement, with the passage and dissolution of impressions, images, sensations, that analysis leaves off --that continual vanishing away, that strange, perpetual, weaving and unweaving of ourselves.</p>
 
-      <p>Philosophiren, says Novalis, ist dephlegmatisiren. vivificiren. The service of philosophy, of speculative culture, towards the human spirit, is to rouse, to startle it to a life of constant and eager observation. Every moment some form grows perfect in hand or face; some tone on the hills or the sea is choicer than the rest; some mood of passion or insight or intellectual excitement is irresistibly real and attractive to us, --for that moment only. Not the fruit of experience, but experience itself, is the end. A counted number of pulses only is given to us of a variegated, dramatic life. How may we see in them all that is to seen in them by the finest senses? How shall we pass most swiftly from point to point, and be present always at the focus where the greatest number of vital forces unite in their purest energy?</p>
+        <p>Philosophiren, says Novalis, ist dephlegmatisiren. vivificiren. The service of philosophy, of speculative culture, towards the human spirit, is to rouse, to startle it to a life of constant and eager observation. Every moment some form grows perfect in hand or face; some tone on the hills or the sea is choicer than the rest; some mood of passion or insight or intellectual excitement is irresistibly real and attractive to us, --for that moment only. Not the fruit of experience, but experience itself, is the end. A counted number of pulses only is given to us of a variegated, dramatic life. How may we see in them all that is to seen in them by the finest senses? How shall we pass most swiftly from point to point, and be present always at the focus where the greatest number of vital forces unite in their purest energy?</p>
 
-      <p>To burn always with this hard, gem-like flame, to maintain this ecstasy, is success in life. In a sense it might even be said that our failure is to form habits: for, after all, habit is relative to a stereotyped world, and meantime it is only the roughness of the eye that makes two persons, things, situations, seem alike. While all melts under our feet, we may well grasp at any exquisite passion, or any contribution to knowledge that seems by a lifted horizon to set the spirit free for a moment, or any stirring of the sense, strange dyes, strange colours, and curious odours, or work of the artist's hands, or the face of one's friend. Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening. With this sense of the splendour of our experience and of its awful brevity, gathering all we are into one desperate effort to see and touch, we shall hardly have time to make theories about the things we see and touch. What we have to do is to be for ever curiously testing new opinions and courting new impressions, never acquiescing in a facile orthodoxy, of Comte, or of Hegel, or of our own. Philosophical theories or ideas, as points of view, instruments of criticism, may help us to gather up what might otherwise pass unregarded by us. "Philosophy is the microscope of thought." The theory or idea or system which requires of us the sacrifice of any part of this experience, in consideration of some interest into which we cannot enter, or some abstract theory we have not identified with ourselves, or of what is only conventional, has no real claim upon us.</p>
+        <p>To burn always with this hard, gem-like flame, to maintain this ecstasy, is success in life. In a sense it might even be said that our failure is to form habits: for, after all, habit is relative to a stereotyped world, and meantime it is only the roughness of the eye that makes two persons, things, situations, seem alike. While all melts under our feet, we may well grasp at any exquisite passion, or any contribution to knowledge that seems by a lifted horizon to set the spirit free for a moment, or any stirring of the sense, strange dyes, strange colours, and curious odours, or work of the artist's hands, or the face of one's friend. Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening. With this sense of the splendour of our experience and of its awful brevity, gathering all we are into one desperate effort to see and touch, we shall hardly have time to make theories about the things we see and touch. What we have to do is to be for ever curiously testing new opinions and courting new impressions, never acquiescing in a facile orthodoxy, of Comte, or of Hegel, or of our own. Philosophical theories or ideas, as points of view, instruments of criticism, may help us to gather up what might otherwise pass unregarded by us. "Philosophy is the microscope of thought." The theory or idea or system which requires of us the sacrifice of any part of this experience, in consideration of some interest into which we cannot enter, or some abstract theory we have not identified with ourselves, or of what is only conventional, has no real claim upon us.</p>
 
-      <p>One of the most beautiful passages of Rousseau is that in the sixth book of Confessions, where he describes the awakening in him of the literary sense. An undefinable taint of death had clung always about him, and now in early manhood he believed himself smitten by mortal disease. He asked himself how he might make as much as possible of the interval that remained; and he was not biassed by anything in his previous life when he decided that it must be by intellectual excitement, which he found just then in the clear, fresh writings of Voltaire. Well! we are all condamnés, as Victor Hugo says: we are all under sentence of death but with a sort of indefinite reprieve --les hommes sont tous condamnés à mort avec des sursis indéfinis: we have an interval, and then our place knows no more. Some spend this interval in listlessness, some in high passion, the wisest, at least among "the children of the world", in art and song. For our one chance lies in expanding that interval, in getting as many pulsations as possible into the given time. Great passions may give us a quickened sense of life, ecstasy and sorrow of love, the various forms of enthusiastic activity, disinterested or otherwise, which comes naturally to many of us. Only be sure it is passion --that it does yield you this fruit of a quickened, multiplied consciousness. Of such wisdom, the poetic passion, the desire of beauty, the love of art for its own sake, has most. For art comes to you proposing frankly to give nothing but the highest quality to your moments as they pass, and simply for those moments' sake.</p>
+        <p>One of the most beautiful passages of Rousseau is that in the sixth book of Confessions, where he describes the awakening in him of the literary sense. An undefinable taint of death had clung always about him, and now in early manhood he believed himself smitten by mortal disease. He asked himself how he might make as much as possible of the interval that remained; and he was not biassed by anything in his previous life when he decided that it must be by intellectual excitement, which he found just then in the clear, fresh writings of Voltaire. Well! we are all condamnés, as Victor Hugo says: we are all under sentence of death but with a sort of indefinite reprieve --les hommes sont tous condamnés à mort avec des sursis indéfinis: we have an interval, and then our place knows no more. Some spend this interval in listlessness, some in high passion, the wisest, at least among "the children of the world", in art and song. For our one chance lies in expanding that interval, in getting as many pulsations as possible into the given time. Great passions may give us a quickened sense of life, ecstasy and sorrow of love, the various forms of enthusiastic activity, disinterested or otherwise, which comes naturally to many of us. Only be sure it is passion --that it does yield you this fruit of a quickened, multiplied consciousness. Of such wisdom, the poetic passion, the desire of beauty, the love of art for its own sake, has most. For art comes to you proposing frankly to give nothing but the highest quality to your moments as they pass, and simply for those moments' sake.</p>
+      </div>
     </section>
   </body>
 </html>

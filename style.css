@@ -1,0 +1,105 @@
+
+@font-face {  
+  font-family: SarahAnne;  
+  src: url(SarahAnne-Regular.ttf) format("truetype");  
+}
+
+body{
+        font-family:SarahAnne;
+}
+
+h1{
+  font-size:38px;
+}
+
+h2{
+  font-size:30px;
+}
+
+h3{
+  font-size:28px;
+  margin:0;
+}
+
+section{
+  width:350px;;
+  margin:0px auto;
+  outline:0;
+}
+
+section p{
+  font-size:13px;
+  line-height:21px;
+  text-align:justify;
+}
+
+section div.notice{
+  padding:20px;
+  text-align:center;
+  background:rgba(255, 242, 192, 0.52);
+
+}
+
+a{
+  color:gray;
+  text-decoration:none;
+}
+
+a:hover{
+  color:red;
+  cursor:pointer;
+  text-decoration:underline;
+}
+
+#glyphs{
+  overflow:auto;
+  width: 312px;
+  padding:10px;
+  margin:0px auto;
+  cursor:crosshair;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#glyphs span{
+  display:inline-block;
+  float:left;
+  font-size:24px;
+  padding:3px 3px 0   3px;
+  margin: 0   0   3px 0  ;
+  line-height:36px;
+  text-align:center;
+  width:42px;
+  -webkit-transition:all 0.1s linear;
+  border-radius:5px;
+}
+
+
+#glyphs span:hover{
+  background:gray;
+  color:white;
+  -webkit-transform:scale(1.3);
+  -ms-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+
+#words span.leaf{
+  width:12px;
+  text-align:center;
+  display:inline-block;
+}
+
+#words span.leaf:hover{
+  background:#eee;
+}
+
+#words span.active{
+  color:red;
+}

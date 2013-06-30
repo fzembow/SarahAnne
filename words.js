@@ -1,7 +1,10 @@
 
 var TRIE_URL = 'trie.json';
-var HOVER_TIMEOUT = 300;
+var HOVER_TIMEOUT = 250;
+var MAX_WORDS = 10;
+
 var LETTERS_EL = document.getElementById('letters');
+var WORDS_MATCHING_EL = document.getElementById('words_matching');
 
 
 var trieView;
@@ -18,7 +21,8 @@ TrieView = function(el, trie){
 
   function getAvailableLetters(trie){
     var container = document.createElement("div");
-    var keys = Object.keys(trie).sort();
+    var keys = Object.keys(trie).filter(function(key) { return key != "\n" }).sort();
+    // TODO: Can weight by occurrence.
     var letterWidth = Math.floor(totalWidth / keys.length) + 'px';
     keys.forEach(function(key){
       var letter = document.createElement("span");
@@ -43,14 +47,19 @@ TrieView = function(el, trie){
           depth = getSiblingDOMIndex(elem.parentNode);
 
           while (stack.length > depth){
-            console.log("LESS");
             stack.pop();
             el.removeChild(el.children[el.children.length - 1]);
-
           }
 
-          stack.push(deepestNode);
-          deepestNode = trie[letter];
+          stack.push(letter);
+
+          var numChilden = trie[letter][0];
+
+          deepestNode = trie[letter][1];
+
+          var words = dumpTrie(stack.join(''), deepestNode, MAX_WORDS);
+          showMatchingWords(words);
+
           appendTrieLevel(deepestNode);
         }, HOVER_TIMEOUT);
       });
@@ -66,6 +75,42 @@ TrieView = function(el, trie){
   appendTrieLevel(trie);
 
 }
+
+
+function showMatchingWords(words) {
+  WORDS_MATCHING_EL.innerHTML = '';
+  words.forEach(function(word){
+    var el = document.createElement('div');
+    el.innerText = word;
+    WORDS_MATCHING_EL.appendChild(el);
+  });
+}
+
+
+function dumpTrie(prefix, trie, maxResults) {
+  var words = [];
+  dumpTrieRecursive(prefix, trie, maxResults, words);
+  return words
+}
+
+function dumpTrieRecursive(prefix, trie, maxResults, words) {
+  var keys = Object.keys(trie).sort();
+  for (var i = 0; i < keys.length; i++) {
+    var key = keys[i];
+    if (key == "\n") {
+      words.push(prefix);
+      if (words.length == maxResults) {
+        return false;
+      }
+    } else {
+      if (!dumpTrieRecursive(prefix + key, trie[key][1], maxResults, words)) {
+        return false;
+      }
+    }
+  }
+  return true;
+}
+
 
 function getSiblingDOMIndex(elem){
   var i = 0;

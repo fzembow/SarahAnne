@@ -38,23 +38,10 @@ def make_trie(word_iterator):
         pointer[char] = None
       else:
         if char not in pointer:
-          pointer[char] = {}
-        pointer = pointer[char]
+          pointer[char] = [0, {}]
+        pointer[char][0] += 1
+        pointer = pointer[char][1]
   return trie;
-
-
-def random_word(trie):
-
-  word = ''
-
-  while trie:
-    letters = trie.keys()
-    next_letter = random.choice(letters)
-    if next_letter == "\n":
-      return word
-
-    word += next_letter
-    trie = trie[next_letter]
 
 
 if __name__ == "__main__":

@@ -22,7 +22,7 @@ h3{
 }
 
 section{
-  width:350px;;
+  width:420px;
   margin:0px auto;
   outline:0;
 }
@@ -90,10 +90,27 @@ a:hover{
 }
 
 
+#words{
+  overflow:auto;
+}
+
+#words #letters{
+  width:300px;
+  float:left;
+}
+
+#words #words_matching{
+  width:110px;
+  float:left;
+  margin-left:10px;
+}
+
+
 #words span.leaf{
   width:12px;
   text-align:center;
   display:inline-block;
+  color:#ccc;
 }
 
 #words span.leaf:hover{
@@ -103,3 +120,4 @@ a:hover{
 #words span.active{
   color:red;
 }
+

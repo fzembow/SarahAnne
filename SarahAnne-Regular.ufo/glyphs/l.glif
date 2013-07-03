@@ -6,15 +6,15 @@
     <contour>
       <point x="88.293" y="424.385" type="curve" smooth="yes"/>
       <point x="94.293" y="668.385"/>
-      <point x="96.293" y="823.385"/>
+      <point x="96.3134" y="821.646"/>
       <point x="170.293" y="823.385" type="curve" smooth="yes"/>
-      <point x="248.293" y="823.385"/>
-      <point x="201.158" y="621.533"/>
-      <point x="204.158" y="377.533" type="curve" smooth="yes"/>
-      <point x="208.158" y="47.5332"/>
-      <point x="276.293" y="7"/>
+      <point x="239" y="825"/>
+      <point x="199" y="599"/>
+      <point x="202" y="355" type="curve" smooth="yes"/>
+      <point x="206" y="25"/>
+      <point x="263" y="7"/>
       <point x="171.293" y="0" type="curve" smooth="yes"/>
-      <point x="112.293" y="-4"/>
+      <point x="112.329" y="-4.50072"/>
       <point x="80.293" y="94.3848"/>
     </contour>
   </outline>
@@ -22,20 +22,13 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>803</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
 	    <integer>88</integer>
 	    <key>width</key>
-	    <integer>116</integer>
+	    <integer>114</integer>
 	  </dict>
 	</array>
       </dict>

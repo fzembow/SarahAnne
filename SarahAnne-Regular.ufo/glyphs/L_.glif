@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="679"/>
+  <advance width="667"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="178.188" y="800" type="curve" smooth="yes"/>
-      <point x="75.1953" y="887.205"/>
-      <point x="135.188" y="522"/>
-      <point x="125.188" y="412" type="curve" smooth="yes"/>
-      <point x="105.04" y="190.389"/>
-      <point x="63.1885" y="0"/>
-      <point x="125.188" y="0" type="curve" smooth="yes"/>
-      <point x="215.823" y="0"/>
-      <point x="347.111" y="-8.93457"/>
-      <point x="448.694" y="14.8438" type="curve" smooth="yes"/>
-      <point x="531.948" y="34.332"/>
-      <point x="626.83" y="70.1816"/>
-      <point x="590.821" y="128.349" type="curve" smooth="yes"/>
-      <point x="557.934" y="181.475"/>
-      <point x="492.159" y="138.92"/>
-      <point x="401.715" y="124.15" type="curve" smooth="yes"/>
-      <point x="341.008" y="114.237"/>
-      <point x="273.864" y="124.431"/>
-      <point x="217.961" y="122" type="curve"/>
-      <point x="221.188" y="266"/>
-      <point x="315.188" y="684"/>
+      <point x="153.785" y="808.222" type="curve" smooth="yes"/>
+      <point x="46.0679" y="889.518"/>
+      <point x="107.264" y="522.411"/>
+      <point x="104.188" y="412" type="curve" smooth="yes"/>
+      <point x="97.7853" y="182.222"/>
+      <point x="64.1885" y="0"/>
+      <point x="126.188" y="0" type="curve" smooth="yes"/>
+      <point x="216.823" y="0"/>
+      <point x="333.111" y="-8.93457"/>
+      <point x="434.694" y="14.8438" type="curve" smooth="yes"/>
+      <point x="517.948" y="34.332"/>
+      <point x="612.83" y="70.1816"/>
+      <point x="576.821" y="128.349" type="curve" smooth="yes"/>
+      <point x="543.934" y="181.475"/>
+      <point x="478.159" y="138.92"/>
+      <point x="387.715" y="124.15" type="curve" smooth="yes"/>
+      <point x="327.008" y="114.237"/>
+      <point x="259.864" y="124.431"/>
+      <point x="203.961" y="122" type="curve"/>
+      <point x="207.188" y="266"/>
+      <point x="259.785" y="728.221"/>
     </contour>
   </outline>
   <lib>

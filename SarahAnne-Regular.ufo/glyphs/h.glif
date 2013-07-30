@@ -33,9 +33,9 @@
       <point x="224.379" y="294.084"/>
       <point x="203.379" y="220.084" type="curve" smooth="yes"/>
       <point x="172.379" y="111.084"/>
-      <point x="226.697" y="38.2085"/>
+      <point x="217.785" y="0"/>
       <point x="111.379" y="0" type="curve" smooth="yes"/>
-      <point x="69.3791" y="-13.9158"/>
+      <point x="67.1338" y="0"/>
       <point x="99.3789" y="114.084"/>
     </contour>
   </outline>
@@ -46,8 +46,8 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>523</integer>
-	    <key>width</key>	    <integer>20</integer>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>543</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="569"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="20" y="-49" type="curve" smooth="yes"/>
+      <point x="38" y="8"/>
+      <point x="186" y="0"/>
+      <point x="276" y="0" type="curve" smooth="yes"/>
+      <point x="424.354" y="0"/>
+      <point x="535.021" y="-18.373"/>
+      <point x="540" y="-38" type="curve" smooth="yes"/>
+      <point x="549.067" y="-76.1553"/>
+      <point x="416" y="-81"/>
+      <point x="262.171" y="-79.0479" type="curve" smooth="yes"/>
+      <point x="122.279" y="-77.2725"/>
+      <point x="11.8083" y="-74.9403"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-79</integer>
+	    <key>width</key>	    <integer>79</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

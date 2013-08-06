@@ -4,7 +4,9 @@
 @GDEF_Simple = [\o \n \r \a \space \d \b \i \k \e \h \s \m \g \exclam \v \t \c \l \y \u \p \w \H \E 
 	\f \j \z \period \x \q \plus \hyphen \comma \quotesingle \question \W \I \S \F \G \two 
 	\nine \zero \six \seven \three \eight \five \L \O \A \one \four \colon \T \semicolon \C 
-	\backslash \B \P \R \N \V \quotedbl \Z \slash \Y \K \M \J \U \X \Q \D ];
+	\backslash \B \P \R \N \V \quotedbl \Z \slash \Y \K \M \J \U \X \Q \D \at \parenleft 
+	\parenright \bracketleft \bracketright \underscore \equal \asciicircum 
+	\braceleft \braceright \bar \asciitilde \greater \less ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

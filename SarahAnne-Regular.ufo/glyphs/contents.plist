@@ -152,5 +152,27 @@
 	<string>Q_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
+	<key>at</key>
+	<string>at.glif</string>
+	<key>parenleft</key>
+	<string>parenleft.glif</string>
+	<key>parenright</key>
+	<string>parenright.glif</string>
+	<key>bracketleft</key>
+	<string>bracketleft.glif</string>
+	<key>bracketright</key>
+	<string>bracketright.glif</string>
+	<key>underscore</key>
+	<string>underscore.glif</string>
+	<key>equal</key>
+	<string>equal.glif</string>
+	<key>braceleft</key>
+	<string>braceleft.glif</string>
+	<key>braceright</key>
+	<string>braceright.glif</string>
+	<key>bar</key>
+	<string>bar.glif</string>
+	<key>asciitilde</key>
+	<string>asciitilde.glif</string>
     </dict>
 </plist>

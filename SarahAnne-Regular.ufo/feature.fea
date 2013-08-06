@@ -6,7 +6,8 @@
 	\nine \zero \six \seven \three \eight \five \L \O \A \one \four \colon \T \semicolon \C 
 	\backslash \B \P \R \N \V \quotedbl \Z \slash \Y \K \M \J \U \X \Q \D \at \parenleft 
 	\parenright \bracketleft \bracketright \underscore \equal \asciicircum 
-	\braceleft \braceright \bar \asciitilde \greater \less ];
+	\braceleft \braceright \bar \asciitilde \greater \less \dollar \asterisk \grave 
+	\numbersign \percent ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

@@ -166,6 +166,8 @@
 	<string>underscore.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>asciicircum</key>
+	<string>asciicircum.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -174,5 +176,17 @@
 	<string>bar.glif</string>
 	<key>asciitilde</key>
 	<string>asciitilde.glif</string>
+	<key>greater</key>
+	<string>greater.glif</string>
+	<key>less</key>
+	<string>less.glif</string>
+	<key>asterisk</key>
+	<string>asterisk.glif</string>
+	<key>grave</key>
+	<string>grave.glif</string>
+	<key>numbersign</key>
+	<string>numbersign.glif</string>
+	<key>percent</key>
+	<string>percent.glif</string>
     </dict>
 </plist>

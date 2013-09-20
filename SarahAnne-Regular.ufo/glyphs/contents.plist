@@ -188,5 +188,7 @@
 	<string>numbersign.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
+	<key>ampersand</key>
+	<string>ampersand.glif</string>
     </dict>
 </plist>

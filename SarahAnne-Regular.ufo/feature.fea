@@ -7,7 +7,7 @@
 	\backslash \B \P \R \N \V \quotedbl \Z \slash \Y \K \M \J \U \X \Q \D \at \parenleft 
 	\parenright \bracketleft \bracketright \underscore \equal \asciicircum 
 	\braceleft \braceright \bar \asciitilde \greater \less \asterisk \grave 
-	\numbersign \percent ];
+	\numbersign \percent \ampersand ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

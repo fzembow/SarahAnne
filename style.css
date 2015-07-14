@@ -91,6 +91,7 @@ a:hover{
 
 #words{
   overflow:auto;
+  height:200px;
 }
 
 #words #letters{
